@@ -1,0 +1,1055 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Dialogue concerning the rights of Her Most Christian Majesty</title>
+            <author>Bilain, Antoine, d. 1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 110 KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35923</idno>
+            <idno type="STC">Wing D1362</idno>
+            <idno type="STC">ESTC R33450</idno>
+            <idno type="EEBO-CITATION">13344177</idno>
+            <idno type="OCLC">ocm 13344177</idno>
+            <idno type="VID">99156</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35923)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99156)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1548:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Dialogue concerning the rights of Her Most Christian Majesty</title>
+                  <author>Bilain, Antoine, d. 1672.</author>
+                  <author>Bourzeis, Amable de, 1606-1672.</author>
+                  <author>Joly, Guy, fl. 1648-1655.</author>
+               </titleStmt>
+               <extent>78 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Newcomb,</publisher>
+                  <pubPlace>In the Savoy [London] :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An abridgment of the Traitté des droits de la reyne, generally ascribed to Antoine Bilain, sometimes with the collaboration of Amable de Bourzeis; also attributed to Guy Joly--NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marie-Thérèse, --  Queen, consort of Louis XIV, King of France, 1638-1683.</term>
+               <term>France --  History --  Louis XIV, 1643-1715.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99156:1" rendition="simple:additions"/>
+            <p>
+               <hi>A DIALOGUE Concerning the RIGHTS Of Her moſt CHRISTIAN MAJESTY.</hi>
+            </p>
+            <p>
+               <hi>Licenſed by Authority.</hi>
+            </p>
+            <p>In the Savoy, <hi>Printed by</hi> Thomas Newcomb <hi>1667.</hi>
+            </p>
+         </div>
+         <div type="authors_note">
+            <pb facs="tcp:99156:2"/>
+            <pb n="3" facs="tcp:99156:2"/>
+            <p>
+               <seg rend="decorInit">I</seg>N a ſhort time after the late Queen-Mother had paid all the Devoirs and Civilities which are uſu<g ref="char:EOLhyphen"/>ally performed on the like Occaſions, to the Memory of the Catholique King her Brother, and the Queen his Widow; She ſent for the Marquis <hi>De la Fuente</hi> the Spaniſh Ambaſſador, and let him know from her own Mouth, That amongſt all the pains of a fatal Diſtemper into which ſhe was fallen, ſhe ſhould yet think her ſelf happy, and dye with Comfort, If ſhe could ſee a Peace firmly ſettled between the Two Crowns, ſo as not eaſily to be broken or inter<g ref="char:EOLhyphen"/>rupted. That from this Motive, without any other Intereſt than that of the Publick Peace, ſhe heartily wiſhed, That <hi>Spain</hi> would be in<g ref="char:EOLhyphen"/>duced to give Satisfaction to the King her Son, in certain States and Dominions that were fal<g ref="char:EOLhyphen"/>len to the Queen his Wife in the <hi>Low-Coun<g ref="char:EOLhyphen"/>tries;</hi> ſince the refuſal of a Right, ſo Natural and Legal, would inevitably cauſe Differences between the Two Kings: But ſhe required him to write to the Queen her Siſter, and to conjure her in her Name, That ſhe would not loſe any opportunity of employing the little remainder of her the Queen-Mothers Life, which ſhe freely
+<pb n="4" facs="tcp:99156:3"/>offered, for the putting an End to an Affair of ſuch Importance to the Eſtate of the Catho<g ref="char:EOLhyphen"/>lique King her Son, and generally to all Chri<g ref="char:EOLhyphen"/>ſtendom: Aſſuring her, That her Mediation would not be ineffectual with the King her Son, whoſe Goodneſs and Moderation ſhe was ſo well perſwaded of, as to promiſe her ſelf, That from her Deſires, and his own Inclina<g ref="char:EOLhyphen"/>tions to Peace, he would be induced a little to moderate his Intereſts.</p>
+            <p>The Marquis <hi>De la Fuente</hi> undertook to write about it, but the Anſwer he had, after a conſiderable ſpace of time, was, a preciſe Or<g ref="char:EOLhyphen"/>der, to declare to the Queen-mother (as he accordingly did) That the Queen his Miſtreſs, would not upon any account whatſoever hear of any Accommodation in thoſe pretenſions which ſhe took to have no appearance at all of reaſon, and ſo much the leſs, ſince the late King her Husband had forbid her by his Will, to alienate or diſmember any part, not ſo much as one ſingle Village or Hamlet of the Sovereignty of the Low Countries: And although ſo formal and poſitive a refuſal, as this was, might from that inſtant have driven things to a reſentment, yet the moct Chriſtian King inſtead of executing his rights, was willing to ſuſpend for ſome time the deſign of purſuing them, in the be<g ref="char:EOLhyphen"/>lief he had, that the Queen of <hi>Spain,</hi> would
+<pb n="5" facs="tcp:99156:3"/>take care to be better informed about them, but at laſt perceiving that a longer patience might prejudice the intereſts of the Queen his Wife; <hi>Spain</hi> having already taken advantage of it, in exacting a new Oath from theſe Eſtates that were fallen to him, he is reſolved to march and take poſſeſſion of them, in a poſture fit to aſſure the quiet of ſuch of his ſubjects as ſhall be faith<g ref="char:EOLhyphen"/>ful to him, or to force the Rebellion of thoſe that ſhall refuſe to acknowledge him for their true and lawful Sovereign, and at the ſame time for the informing all <hi>Europe</hi> of the juſtice of his Rights, he has cauſed to be publiſht a large Trea<g ref="char:EOLhyphen"/>tiſe, whereof the ſhort diſcourſe that follows is a faithful Abſtract.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:99156:4"/>
+            <pb n="7" facs="tcp:99156:4"/>
+            <head>A DIALOGUE Concerning the RIGHTS Of Her moſt CHRISTIAN MAJESTY.</head>
+            <stage>
+               <hi>A</hi> French Advocate <hi>meeting in</hi> Bruſſels <hi>with Two others of the ſame Profeſ<g ref="char:EOLhyphen"/>ſion, one of them a</hi> Flemming, <hi>the other a</hi> German, <hi>they had together this following Diſcourſe.</hi>
+            </stage>
+            <sp>
+               <speaker>French Adv.</speaker>
+               <p>I Have frequently heard much talk of the Magnificence of this City of <hi>Bruſſels,</hi> but whatſoever <hi>Idea</hi> I formed of it, I confeſs it was not equal either to the Grandeur or Beauty of what I ſee</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>By your Accent, 'tis no hard matter to gueſs you are a <hi>Frenchman.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>'Tis very true Sir, I am ſo.</p>
+            </sp>
+            <pb n="8" facs="tcp:99156:5"/>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>I wiſh you may find wherewith to ſatisfie your Curioſity; I ſhould think my ſelf happy, could I contribute any thing to<g ref="char:EOLhyphen"/>wards it.</p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>That you may eaſily do Sir, in help<g ref="char:EOLhyphen"/>ing me into the Palace, where the Courts of Juſtice uſually ſit, which is the only thing con<g ref="char:EOLhyphen"/>ſiderable in the City that I have not ſeen.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>I am the more willing to undertake to conduct you thither, becauſe I have as much freedom there as you can deſire.</p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>I am infinitely pleaſed with the fa<g ref="char:EOLhyphen"/>vour you do me, but yet I fear I ſhall be troubleſom to you.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>Fear not that, for who can be fitter to do this ſmall kindneſs for you, than an Ad<g ref="char:EOLhyphen"/>vocate in a time of Vacation.</p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>You are then an Advocate, Sir?</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>That's my Profeſſion.</p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>You cannot tell me any thing that pleaſes me better, ſince 'tis mine alſo.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>I am much pleaſed with this our happy meeting; but may I take the boldneſs to ask you in what Court you practiſe?</p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>I cannot but ſatisfie your Curioſity; 'Tis in the Parliament of <hi>Paris.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>After this Declaration, I am almoſt aſhamed to lead you where you deſire: For (I am told) nothing can compare with the
+<pb n="9" facs="tcp:99156:5"/>Dignity and Majeſty of that Auguſt Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>Every place has its particular Beau<g ref="char:EOLhyphen"/>ties and Rarities: but, pray Sir, be pleaſed to do me the favour you promis'd me.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>Enter then, ſince you will have it ſo; for we are come inſenſibly to the Door.</p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>In truth I ſhould have had reaſon to complain of you, had you concealed from me a place where I diſcover ſo much beauty. This Tribunal is very Magnificent, the place it ſelf, methinks, has much of Greatneſs in it; and I doubt not, but it appears much another thing, when animated with yours and your Brethrens Eloquence.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>'Tis your Bar, Sir, that is the true Field of Eloquence, and not this place, where 'tis confin'd to too narrow limits; for all Cauſes here are diſcuſſed by writing, the Ad<g ref="char:EOLhyphen"/>vocates never plead: yet I confeſs, ſince the Eſtabliſhment of Peace between the Two Crowns, the Sciences begin to take their pla<g ref="char:EOLhyphen"/>ces: But of late, there is a flying Rumor of War, that ſomewhat troubles us, you may probably better inform us of it, ſince you come from <hi>Paris,</hi> from whence we have alſo this News.</p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>You ſurprize me much; for when I came from thence, which was about a Fort<g ref="char:EOLhyphen"/>night
+<pb n="10" facs="tcp:99156:6"/>ſince, I can aſſure you, They were then intent upon nothing but Peace. Arts, which are the moſt noble Ornaments of a Peace, flouriſh there more than ever: The Sciences are cultivated with ſingular application. They are there reforming Abuſes crept into Juſtice, correcting the Diſorders in the Finan<g ref="char:EOLhyphen"/>ces, eſtabliſhing an excellent Politie. Now Manufactures take up and employ whatever Idleneſs before corrupted. Trade is encoura<g ref="char:EOLhyphen"/>ged, to take off the Superfluities of our own, and to ſupply us with the Abundances of For<g ref="char:EOLhyphen"/>reign Countries. Vertue is now perfecting her Conqueſt over Fortune, and Honours begin to be diſtributed only at the rate of Merit. In a word, The moſt Chriſtian King purifies all things by the rayes of a Wiſdom wholly Divine, and recalls the happineſs of the firſt Age of the World, which we had no knowledge of, but only in the Idea. Judge then, Sir, what foundation this noiſe of War can have, in the midſt of ſo many Employ<g ref="char:EOLhyphen"/>ments of Peace; but do me the favour, to tell me what Pretext they give out here for this War.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>They ſay, The King of <hi>France</hi> would re-enter upon ſome Dominions, that he pretends are fallen to the Queen his Wife; by the Deceaſe of their Catholique Majeſties,
+<pb n="11" facs="tcp:99156:6"/>her Father and Mother, and of the Prince <hi>Don Baltazar,</hi> her onely Brother by the firſt Venter.</p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>I do not underſtand that this can be the ground of a War; for if the Queen be well founded in Law as to her Titles and pre<g ref="char:EOLhyphen"/>tenſions, 'tis not to be preſumed that his Ca<g ref="char:EOLhyphen"/>tholick Majeſty will refuſe his Siſter that Ju<g ref="char:EOLhyphen"/>ſtice which her Blood will require of him; or that the Eſtates that belong to this Princeſs, would forfeit their Allegiance to their natu<g ref="char:EOLhyphen"/>ral Soveraign, to ſupport the Ambition of a Stranger.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>But who ſhall be judge whether the pretentions of the Queen be well founded or not?</p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>Let the Law, let Reaſon, let the Cu<g ref="char:EOLhyphen"/>ſtoms of Places, let Examples and Practices obſerved in thoſe Countreys.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>In truth nothing can be more juſt than what you ſay, ſince no perſon will re<g ref="char:EOLhyphen"/>fuſe to a Sovereign, what Nature and the Law gives him; for my part, I have a great deſire to be ſo thorowly informed in this buſineſs, that I may not do any thing that might be charged upon my honour and conſcience. Do you know any thing, Sir, of theſe pretenſi<g ref="char:EOLhyphen"/>ons?</p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>I have ſeen in Manuſcript a large
+<pb n="12" facs="tcp:99156:7"/>Treatiſe upon that ſubject, compoſed at the moſt Chriſtian Kings Command, by an inti<g ref="char:EOLhyphen"/>mate friend of mine, who ſhewed it me.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>I much fear this Treatiſe finds no free paſſage in theſe quarters, but probably you remember the ſubſtance of it.</p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>I read it with ſo much pleaſure and application, that I remember it as well as if I had been the Author of it.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>Pray do me the favour to impart ſome light to me, into an affair of ſuch con<g ref="char:EOLhyphen"/>cernment to my duty and fidelity.</p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>Poſſibly, Prudence might incline me to pray your excuſe, for matters of this na<g ref="char:EOLhyphen"/>ture are very tender, and are not to be diſ<g ref="char:EOLhyphen"/>courſed of in all places and before all per<g ref="char:EOLhyphen"/>ſons.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>Let me deſire you, that this honeſt Gentleman in my company may not occaſion your ſuſpition; when you know him, you will not repent of any diſcourſe made in his preſence; he is one of the beſt Civilians of <hi>Germany,</hi> who underſtands and ſpeaks your Language very well.</p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>This will much add to my joy, to give you ſatisfaction in preſence of ſo worthy a perſon; but the clearing of this point which you deſire, will require ſome time.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>You may be as brief as you pleaſe,
+<pb n="13" facs="tcp:99156:7"/>for amongſt perſons of our Profeſſion, you need onely touch upon the reaſons, leaving the proof of them to be ſupplied and juſtified by farther Argument.</p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>Let us ſeat our ſelves then, if you pleaſe, this matter deſerves to be treated on at our eaſe; and ſince you deſire it, and here is none to over-hear us, we will rip up the whole buſineſs from the bottom. The Title of the Queen, as I have found by this Trea<g ref="char:EOLhyphen"/>tiſe, conſiſts either in Money, or Lands and Dominions.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>What does ſhe claim by?</p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>The Contract of Marriage between <hi>Elizabeth</hi> of <hi>France</hi> her Mother, with the late Catholick King, and the Cuſtoms of the place.</p>
+            </sp>
+            <sp>
+               <speaker>Germ.</speaker>
+               <p>To me it appears not that ſhe is ſole Inheretrix by the firſt Venter to the Catho<g ref="char:EOLhyphen"/>lick King.</p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>'Tis true, there remained two Chil<g ref="char:EOLhyphen"/>dren, this Queen, and the Prince <hi>Don Balta<g ref="char:EOLhyphen"/>zar,</hi> but that Prince dying under age after his Mother, ſhe then remained ſole Inhere<g ref="char:EOLhyphen"/>trix.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>Is there much due to her in Money?</p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>At the leaſt Eleven hundred thouſand Crowns of Gold.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>'Tis a vaſt ſum.</p>
+            </sp>
+            <pb n="14" facs="tcp:99156:8" rendition="simple:additions"/>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>'Tis eaſily computed there are due Five hundred thouſand Crowns of Gold for the reſtitution of the Portion, One hundred ſixty ſix thouſand ſix hundred ſixty ſix Crowns of Gold for the Augmentation of the Portion, One hundred thouſand Crowns in Jewels gi<g ref="char:EOLhyphen"/>ven and brought along with her; beſides the intereſt of all theſe ſums for many years.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>Your computation may be good, but the <hi>Infanta</hi> could have but the moiety of this ſum, the other belonged to the Catholick King, as heir to the Prince <hi>Don Baltazar</hi> his Son, to whom it fell in right of inheritance, from <hi>Elizabeth</hi> of <hi>France</hi> his Mother.</p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>You know Sir, that in <hi>Spain</hi> the Por<g ref="char:EOLhyphen"/>tion and the Augmentation are ſo peculiar to Children, that they mutually ſucceed one another, excluding Father and Mother<note n="a">L. <hi>1.</hi> tit. <hi>11.</hi> de las Dotes, <hi>4</hi> Part. l. <hi>23.</hi> &amp; <hi>31.</hi> ibi<g ref="char:EOLhyphen"/>dem. l. <hi>15.</hi> Torre.</note> So that the Catholick King has no pre<g ref="char:EOLhyphen"/>tenſion to <hi>Don Baltazar</hi>'s part, to the Queens preju<g ref="char:EOLhyphen"/>dice, no more than he has to the value of the Jewels, becauſe it was agreed they ſhould be her own by the late Queen <hi>Elizabeths</hi> con<g ref="char:EOLhyphen"/>tract of Marriage. Beſides, ſuppoſing farther that he had a right to ſucceed Don <hi>Baltazar,</hi> yet had he loſt it by his ſecond Marriage, ac<g ref="char:EOLhyphen"/>cording to the Law 15 <hi>de Torre,</hi> which ſayes,
+<pb n="15" facs="tcp:99156:8" rendition="simple:additions"/>That the Survivor of the Man and Wife that Marries again, ſhall be obliged to reſtore to the Children of the former Marriage, all ſuch Goods and Eſtates inheritable as ſhall have faln to ſuch perſon by the deceaſe of any of the Children of the former Marriage.</p>
+            </sp>
+            <sp>
+               <speaker>Germ.</speaker>
+               <p>There is nothing to be replyed to what this Gentleman has ſaid; for, beſides the Common Law of <hi>Spain,</hi> and the Law 15. <hi>de Torre,</hi> cited by him, the Civil Law diſpoſes in the ſame manner againſt the Father and Mother in caſe of a ſecond marriage<note n="b" place="margin">L. Foe<g ref="char:EOLhyphen"/>minae, Cod. de ſec. Nupt. L. Edict. Cod. eod.</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>Let us come then to the Eſtate in Lands, and examine where they lye.</p>
+            </sp>
+            <sp>
+               <speaker>Fren</speaker>
+               <p>Thoſe Lands to which a Right is pretended, comprehend the Dutchy of <hi>Bra<g ref="char:EOLhyphen"/>bant,</hi> and its annexes; the Seigniory of <hi>Ma<g ref="char:EOLhyphen"/>lines, Antwerp, <g ref="char:V">Ʋ</g>pper-Gelderland, Namures, Limburg,</hi> and the places united on the other ſide the <hi>Meuſe; Hainault, Artois, Cambray,</hi> the County of <hi>Bourgogne,</hi> and the Dutchy of <hi>Luxembourg.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>What ground is there for all theſe high pretenſions?</p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>The Queen affirms, that by the de<g ref="char:EOLhyphen"/>ceaſe of Queen <hi>Elizabeth</hi> her Mother, and the Prince Don <hi>Baltazar</hi> her Brother, the property of all theſe Eſtates is faln to her.</p>
+            </sp>
+            <sp>
+               <speaker>Germ.</speaker>
+               <p>'Tis hard to comprehend how theſe
+<pb n="16" facs="tcp:99156:9" rendition="simple:additions"/>Eſtates which belonged to the late Catholique King, ſhould fall to the Infanta by the deceaſe of her Mother and Brother, who were neither in Reverſion or Poſſeſſion.</p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>Wonder not at it; this happens by vertue of a certain Right of Devolution, which is inviolably obſerved by the greateſt part of thoſe Eſtates.</p>
+            </sp>
+            <sp>
+               <speaker>Germ.</speaker>
+               <p>This Right is not altogether un<g ref="char:EOLhyphen"/>known to me, for we have ſome Provinces in <hi>Germany</hi> that uſe it; but be pleaſed, Sir, to let me know after what manner it is obſerved and what effects it has amongſt you?</p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>Very willingly; yet I ought firſt to let you know, that there is a clauſe in the Con<g ref="char:EOLhyphen"/>tract of the Queens marriage, by which ſhee is made to renounce all her preſent or future Right or Title, which I therefore tell you, that you may judg whether I have done well to entertain you with the mention of this Clauſe, before we enter upon the Title, or whether we ſhould not rather proceed in the clearing of that.</p>
+            </sp>
+            <sp>
+               <speaker>Germ.</speaker>
+               <p>The obſervation is good and ſincere, for my part I think it not amiſs to begin with the Renunciation, for 'tis to no purpoſe to goe about to prove a Title, where a Man can pre<g ref="char:EOLhyphen"/>tend to nothing.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>I am of the ſame Opinion; but be<g ref="char:EOLhyphen"/>ſides,
+<pb n="17" facs="tcp:99156:9" rendition="simple:additions"/>think it neceſſary that this Gentleman take the pains to recite exactly the Clauſe of the Contract.</p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>'Tis true, things will be the clear<g ref="char:EOLhyphen"/>er after the examination of that Clauſe, of which theſe are exactly the Terms; [<hi>That upon the effectual Payment made to his moſt Chriſtian Majeſty of ſive hundred thouſand Crowns of Gold of the Sun, or their juſt va<g ref="char:EOLhyphen"/>lue at the ſeveral times above-mentioned, the</hi> Sereniſſima Infanta <hi>ſhall reſt ſatisfied, and content her ſelf with the ſaid Portion, without pleading hereafter any other Right or Title on her own behalf, or commencing any Suit or De<g ref="char:EOLhyphen"/>mand, upon pretence, that any other greater Eſtate or other Inheritance, Accounts or Acti<g ref="char:EOLhyphen"/>ons by reaſon of any Inheritances or greater Suc<g ref="char:EOLhyphen"/>ceſſions from their Catholick Majeſties, her Father or mother, do or may belong to ber, ei<g ref="char:EOLhyphen"/>ther in conſideration of their perſons, upon any other Account, Cauſe, er Title what<g ref="char:EOLhyphen"/>ſoever.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>Can there be any thing of greater force than this Clauſe?</p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>A little patience, &amp; you ſhall ſee that nothing can be more weak, not to ſay more unjuſt than this. The Catholick King gives nothing at all in Portion to the Queen, and yet he makes her renounce her Inheritance.
+<pb n="18" facs="tcp:99156:10" rendition="simple:additions"/>Which cannot hold good: A Renuntiation doth neceſſarily imply that a Daughter hath her Portion; for when ſhe hath it not, ſhe is not to be ſaid to renounce, but to be diſinhe<g ref="char:EOLhyphen"/>rited: So the Decretal of Pope <hi>Boniface</hi> the 8th, which introduced the practiſe of Renuntiations, contrary to the Tenor of the Civil Law, which condemnes them, requires that a Daughter that renounces, ſhall ſo<g ref="char:EOLhyphen"/>lemnly declare that ſhe is content with the portion which her Father gives her in order thereunto<note n="a" place="margin">Quam<g ref="char:EOLhyphen"/>vis pactum patris fa<g ref="char:EOLhyphen"/>ctum à fi<g ref="char:EOLhyphen"/>lia, dum nuptui tra<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>batur, ut dote con<g ref="char:EOLhyphen"/>tenta nul<g ref="char:EOLhyphen"/>lum ad bo<g ref="char:EOLhyphen"/>na paterna regreſſum haberet, improbet Lex Civilis: Si tamen juramento, nec dolo, nec vi prae<g ref="char:EOLhyphen"/>ſtito firmatum fuerit, ab eadem omnino ſervari debebit, cum nec vergat in ſalutis aeternae diſpendium, nec redundet in alterius de<g ref="char:EOLhyphen"/>trimen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um. <hi>Sex decret. lib.</hi> 1. <hi>tit. de Pact.</hi>
+                  </note>. So true it is that a Portion is the ſole ground for a Renuntiation, which in <hi>Spain</hi> is ſo much the more out of doubt, as they have an expreſſe Law in the caſe, by which, if the Father gives leſſe with his Daughter than the portion that the Law allots her out of his Eſtate, the Renuntiati<g ref="char:EOLhyphen"/>on is void<note n="b" place="margin">L. <hi>11.</hi> tis. e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. de la ſexta partida.</note>. and the Doctors of that Coun<g ref="char:EOLhyphen"/>try who have written upon that Subject, add, that it is ſo neceſſary that a Portion be
+<pb n="19" facs="tcp:99156:10" rendition="simple:additions"/>made out of the Fathers Eſtate, that though the Daughter become by ſome other means extremely rich, yet unleſs the Father give her a portion out of his own Eſtate, he cannot cauſe her to renounce; becauſe the Portion being a burden, which Nature impoſes upon the Eſtate of the Father, it is neceſſary that this Portion be a part as really of his Fortune, as his Daughter is of himſelf<note n="c" place="margin">Filia e<g ref="char:EOLhyphen"/>nim major renuntians haereditati parernae &amp; futurae recepta dote ex bonis maternis, li<g ref="char:EOLhyphen"/>cet juramentum praeſtiterit, poterit ex cauſâ graviſſimae laeſionis agere ad pactl reſciſſionem, etenim nemo negare poteſt, quin in hoc caſu graviſſima &amp; admodum inormis laeſio contigerit, nec in hac ſpecie locus eſt deciſioni hujus capitis, cum in eo tractetur de filia renuntiante haereditati paternae recepta dote à patre ex bonis ipſius patris. <hi>Cou ar. ſup. cap. quamvis in ſex. de pact. L.</hi> 1. <hi>Relect. part.</hi> 3. <hi>Sect.</hi> 4.</note>.</p>
+            </sp>
+            <sp>
+               <speaker>Germ.</speaker>
+               <p>This is a Principle, which to me ſeems well founded; to which I am the more eaſily perſwaded, ſince the Emperor <hi>Juſtinian</hi> himſelf hath made an expreſſe conſtitution, importing that the Obligation of giving a Portion doth ſo naturally affect the Fathers Eſtate, that he can never acquit himſelf of it out of the Eſtate of any other perſon, much leſſe can he excuſe himſelf, whenſoever he is of ability to perform that Office, or rather Duty of his Bloud.</p>
+            </sp>
+            <pb n="20" facs="tcp:99156:11" rendition="simple:additions"/>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>This Maxim is not (poſſibly) ſo unqueſtionable as you imagine; but what<g ref="char:EOLhyphen"/>ſoever it be, I doubt whether it can be here apply'd to the caſe in hand. I alwaies took it for granted that the Catholick King gave 500 thouſand Crowns of Gold in Portion to the Infanta.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>Pardon me Sir, if I tell you that he never gave her any thing: I grant you that the Catholick King who owed his Daughter eleven hundred thouſand Crowns of Gold, made a promiſe to her of five hundred thouſand; but in the Contract he agreed with her, that upon payment of that Sum he would be quitted for all that was due to her in right of her Mother; now he that pays only five hundred thouſand in lieu of eleven hundred thouſand, is ſo far from giving the five, that he indeed retains ſix.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>Is not the Sum of five hundred thouſand Crowns of Gold, a very honoura<g ref="char:EOLhyphen"/>ble Portion? what matter is it from whence it proceeds? ſince 'tis a ſuteable one, and 'tis the Father that undertakes to pay it.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>Is it juſt, Sir, that a Father who is obliged to give a Portion out of his own Eſtate, ſhould acquit himſelf by giving it
+<pb n="21" facs="tcp:99156:11" rendition="simple:additions"/>out of anothers, or out of the Daughters own? Pray tell me, do you believe that any Creditor can be legally ſatisfyed for a juſt Debt, in paying him out of his own Eſtate? We know that the Law which ob<g ref="char:EOLhyphen"/>liges the Father to give a Portion, men<g ref="char:EOLhyphen"/>tions an effectual one, rais'd, and levy'd out of his own Eſtate<note n="f" place="margin">Caput [quamvis] loquitur derenunti<g ref="char:EOLhyphen"/>atione fa<g ref="char:EOLhyphen"/>cta illi à quo filia dotemcon<g ref="char:EOLhyphen"/>gruam ac<g ref="char:EOLhyphen"/>cepit, cum renuntiati<g ref="char:EOLhyphen"/>onis funda<g ref="char:EOLhyphen"/>mentum potiſſi<g ref="char:EOLhyphen"/>mum eſt ex recepti<g ref="char:EOLhyphen"/>one porti<g ref="char:EOLhyphen"/>onis con<g ref="char:EOLhyphen"/>gruae. <hi>Berugarius Fernandes. Lib. de renunt.</hi>
+                     <p>Pater dotavit filiam de bonis uxoris: nunquid iſta filia hibebit regreſſum ad bona paterna? Reſpondeo quod ſic, quia iſta cum ef<g ref="char:EOLhyphen"/>fectu non eſt à patre dotata. <hi>Bald. in l. neque mater. Cod. de jure Dot.</hi>
+                     </p>
+                  </note>. For the payment of a Debt to a Daughter is not to give her a Portion: and generally where there is no gift there can be no Portion, and con<g ref="char:EOLhyphen"/>ſequently no ground for a renunciation. For this reaſon, all the Doctors that have wrote upon the Decretal of <hi>Boniface</hi> VIII. agree that no renunciation doth lye but where the perſon, in favour of whom the renunciation is made, have a Portion out of his own Eſtate; becauſe the Portion be<g ref="char:EOLhyphen"/>ing the price, or rather the compenſation of this renunciation, 'twould be unjuſt that a perſon ſhould agree to a renunciation, that pays neither the price nor the compenſa<g ref="char:EOLhyphen"/>tion.
+<pb n="22" facs="tcp:99156:12"/>
+                  <note n="g" place="margin">Non ex cluditur per renuniati<g ref="char:EOLhyphen"/>onem, niſi à ſucceſſi<g ref="char:EOLhyphen"/>one dotan<g ref="char:EOLhyphen"/>tis; unde ſide propri<g ref="char:EOLhyphen"/>is bonis filia fuerit dotata, non eſt excluſs. <hi>Benedict. in Cap. Raynut. in Verb. Duas habens ux<g ref="char:EOLhyphen"/>ores.</hi> Caput [quamvis] debet in<g ref="char:EOLhyphen"/>telligi qu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ndo filia renun<g ref="char:EOLhyphen"/>tians recepit in bonis patris vel matris, illud quod ſuccedit in loco legitimae, id eſt Dotem. Nam nihilo percepto eſſet inhumanum, quod per meram renuntiationem ſpoliaretur haereditate paterns, ex cujus bonis nihil percepit, &amp; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.t dolus reipſa. <hi>Ancharanu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> in Dict. Cap. Quamvis.</hi>
+                  </note>. <hi>Couvaruvias</hi> puts the caſe of a Father that makes his Daughter renounce, though he gives no more in Contemplation of the Marriage than was already fallen to her in right of her Mother; and he reſolves that this renunciation is ſo unjuſt, that it neither can nor ought to be put in Exe<g ref="char:EOLhyphen"/>cution, of what Age ſoever the Daughter be, or what Oath ſoever ſhe take at the renunciation. <hi>Montalua</hi> a <hi>Spaniſh</hi> Miniſter of State, and <hi>Berengarius Fernandes</hi> putting the ſame caſe, condemn this renunciation as unjuſt<note n="h" place="margin">Si filia habens penes patrem bon<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> matern<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> renuntiet haereditati p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ternae cum juramento, hâc appoſitâ pactione, ut pater ei det mille aureos pro do<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, erit intelligenda haec conventio in hunc modum, quod mille <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urei ſunt dandi ex bonis paternis, non ex maternis. <hi>Couar. loco ſup. cit. Montal. Comment. in leg. fori. lib.</hi> 1. <hi>tit.</hi> 2 <hi>l.</hi> 28. <hi>Berengarius Fernandes dict. loco.</hi>
+                  </note>. And truely if it be clear upon all our Principles that an enormous, wrong and miſchief does <hi>pleno <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ure</hi> annul all con<g ref="char:EOLhyphen"/>tracts wherein it is found, becauſe it dif<g ref="char:EOLhyphen"/>fers not from or amounts to a real fraud which the Laws do abhor. What then ſhall we think of that extream miſchief and
+<pb n="23" facs="tcp:99156:12"/>wrong which a Daughter receives from her Father when he ſhall cauſe her to renounce without giving her a Portion, ſince by ſo do<g ref="char:EOLhyphen"/>ing he unjuſtly ſtrips her of all her Birth<g ref="char:EOLhyphen"/>right, and without giving her any thing of his own, deprives her for ever of all the hopes of a future inheritance; which if I may ſo term it, is the chief or firſt Appanage that Children are legally born to<note n="i" place="margin">Limita hanc D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>cretalem non habe<g ref="char:EOLhyphen"/>re locum ubi puella renuncia<g ref="char:EOLhyphen"/>vit haeredi<g ref="char:EOLhyphen"/>tati pater<g ref="char:EOLhyphen"/>nae cum juramento, ſi inter<g ref="char:EOLhyphen"/>veniat deceptio ultra Dimidium: nam ibi ceſſat Juſtitia cum ſit evidens iniquitas, &amp; dolus reipſa ita reſcindit contractum ſicut do<g ref="char:EOLhyphen"/>lus ex propoſito. <hi>Georg. Nat. in Cap. Quamvis de pact. in Sex.</hi>
+                     <p>Tam gravis laeſio non poteſt abſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> dolo vero alterius contrahen<g ref="char:EOLhyphen"/>tium contingere, qui reſcindit omnino pactum. <hi>Couvar. dict. loco.</hi> Sect. 3.</p>
+                  </note>? And truely Sir, I dare ſay 'tis almoſt as hard a matter to excuſe the rigour of a Father who makes his Child renounce without giving her a Portion, upon pretence that ſhe has an Eſtate by ſome other means, as it is abſurd to au<g ref="char:EOLhyphen"/>thorize an outragious Cheat in favour of him that did it, becauſe the perſon that complains has Eſtate enough to bear it.</p>
+            </sp>
+            <sp>
+               <speaker>Germ.</speaker>
+               <p>This is a greater proof then needs amongſt perſons of our Profeſſion. I think we need no farther trouble our ſelves about
+<pb n="24" facs="tcp:99156:13" rendition="simple:additions"/>the Renunciation, but proceed forwards to prove the Title.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>I will Sir, if you command me; but this I dare aſſure you that this firſt Ar<g ref="char:EOLhyphen"/>gument againſt the Renunciation is the weakeſt of 8 or 10. which are to be ſeen in the Treatiſe made by the moſt Chriſtian Kings command.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>Let us then run through them briefly, that I may be a little acquainted with them all.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>A ſecond Nullity is this; the 500 thouſand Crowns which were promiſed are not yet paid, though they ought to have been within 18 months after the Date of the Contract. <hi>viz.</hi> One 3d part on the day of Marriage, another within 6 moneths next af<g ref="char:EOLhyphen"/>ter, and the remainder within a year after the end of the ſix moneths.</p>
+            </sp>
+            <sp>
+               <speaker>Germ.</speaker>
+               <p>Is it poſſible that this Portion ſhould never have been paid?</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>I grant it ſtill remains due.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>This only Argument is enough to deſtroy the Renunciation; for you know Sirs, that in all our Laws whenſoever in any Contract there is any term prefix'd, the very day of payment is a ſufficient de<g ref="char:EOLhyphen"/>mand it ſelf, and without any other if he make not payment, the Bargain or Con<g ref="char:EOLhyphen"/>tract
+<pb n="25" facs="tcp:99156:13" rendition="simple:additions"/>is <hi>pleno jure</hi> diſſolved; for there is this difference between a day prefixt by Law, and that which is agreed on by a Contract, that the firſt is only comminatory, but the laſt alwaies fatal to the Debtor<note n="a" place="margin">Trajecti<g ref="char:EOLhyphen"/>tiae pecu<g ref="char:EOLhyphen"/>niae, ff. de oblig. &amp; act.
+<list>
+                        <item>L. ad diem. ff. de Verb. oblig.</item>
+                        <item>L. <hi>9.</hi> ſect. vel. ff. de Uſur.</item>
+                        <item>L. <hi>13.</hi> ff. de Fidei C. Lib.</item>
+                        <item>L. Magnam.</item>
+                        <item>L. <hi>8.</hi> tit. <hi>14.</hi> partid. <hi>5.</hi>
+                        </item>
+                        <item>C. de Com. &amp; cont. Empt.</item>
+                     </list>
+                  </note>. <hi>Spain</hi> it ſelf hath found this to be ſo juſt, that it hath made it into an expreſſe Law, which <hi>Montalua</hi> high<g ref="char:EOLhyphen"/>ly extols the juſtice of in his Commentaries: and the Civil Law hath ſo confirmed this Practiſe by a great number of Texts, that it abſolutely rejects all offers that the Deb<g ref="char:EOLhyphen"/>tors ſhould make after the Term is lap<g ref="char:EOLhyphen"/>ſed<note n="b" place="margin">Dict L Trajectitiae, &amp;c. leg ſup. Cit.</note>.</p>
+            </sp>
+            <sp>
+               <speaker>Germ.</speaker>
+               <p>This Principle needs no confirma<g ref="char:EOLhyphen"/>tion by citations of Law.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>It ought to be the more carefully obſerved in matter of Renuntiations, be<g ref="char:EOLhyphen"/>cauſe when the Father dies without paying the Portion, the Daughter runs a great ha<g ref="char:EOLhyphen"/>zard in her Fortunes, contrary to the intent
+<pb n="26" facs="tcp:99156:14" rendition="simple:additions"/>and end of Renuntiations, which were there<g ref="char:EOLhyphen"/>fore only tolerated, becauſe what the Father gives in money in lieu of a Portion, is aſcer<g ref="char:EOLhyphen"/>tained and independent on any of thoſe ac<g ref="char:EOLhyphen"/>cidents that may diſturb the Eſtate. You know likewiſe, that by another maxim in Law, if a Clauſe happen before its conſum<g ref="char:EOLhyphen"/>mation to fall into ſuch a ſtate in which it could not have taken a beginning, it neither can or ought to be put in execution<note n="a" place="margin">L. <hi>4.</hi> de de Donat. ante Nupt. ff.</note>. So that the ſame reaſon which would have ren<g ref="char:EOLhyphen"/>dred the Queen uncapable of making a Re<g ref="char:EOLhyphen"/>nuntiation of the Catholick Kings Inheri<g ref="char:EOLhyphen"/>tance, had it been in view at the time of her Marriage, makes it now impoſſible to put it in execution, ſince our caſe is wholly the ſame by the non-payment of the Moneys: Beſides, the Portion not being paid during the life of the late Catholick King, by his death the Queen is reduced only to a bare promiſe of a Portion. But we well know, according to all our Rules, that actual payment and delivery only makes a Portion; the telling of the Money gives form to the Portion, ſaies the Law, and not the promiſe<note n="b." place="margin">Dotem Numeratio non ſcri<g ref="char:EOLhyphen"/>ptura dota<g ref="char:EOLhyphen"/>lis inſtrumenti facit. <hi>L.</hi> 1. <hi>ff. de Dot. Caut. non Num.</hi>
+                     <p>In fructibus à Viro retinendis neque dies dotis conſtitu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ae, ne<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> nuptiarum obſervabitur, led quo primum dotale praedium conſtitu<g ref="char:EOLhyphen"/>tum eſt, id eſt tradita poffeſſione. <hi>L Dotale. ff. de fundo Dot.</hi> 1.</p>
+                  </note> And in
+<pb n="27" facs="tcp:99156:14" rendition="simple:additions"/>another place, it formally decides the point, That he who hath not paid, hath not given a Portion, what Writing or Promiſe ſoever he hath made for that purpoſe, becauſe a Portion conſiſts only in the actual payment and delivery thereof. <hi>Gregory Lopez</hi> who hath commented upon the Laws of <hi>Spain,</hi> affirms, That only by the delivery of the por<g ref="char:EOLhyphen"/>tion a Daughter can be ſaid to have one gi<g ref="char:EOLhyphen"/>ven her<note n="c" place="margin">Dos inci<g ref="char:EOLhyphen"/>pit à tradi<g ref="char:EOLhyphen"/>tione, non à promiſſi<g ref="char:EOLhyphen"/>one. <hi>in L.</hi> 22.4 <hi>part. de tit.</hi> 11. <hi>gl.</hi> 2.</note>. In which point his opinion is conformable to all the Doctors: And a<g ref="char:EOLhyphen"/>mongſt them <hi>Bartholus</hi> hath obſerved, that two things ought neceſſarily to concur to the validity of a Renuntiation; one, that the Daughter be married; the other, that her Portion be actually paid<note n="d" place="margin">Et ſic re<g ref="char:EOLhyphen"/>quiritur quod fuerit dotata &amp; dotem re<g ref="char:EOLhyphen"/>cepiſſet. <hi>in L. non ſinc Cod. quae liberis.</hi>
+                  </note> And <hi>Baldus</hi> ſutable to the ſame Principles, hath ſaid ve<g ref="char:EOLhyphen"/>ry pertinently, That a Portion, a Loan, and a <hi>Depoſitum</hi> are Contracts, whoſe Eſſence wholly conſiſts in their execution, in that differing from others that are perfected by the bare agreement only of the parties; for as it were abſurd to ſay that a bare promiſe to lend, or to depoſite, were a Loan, or a <hi>Depoſitum;</hi> ſo it were as unjuſt to pretend, that a promiſe of a Portion were really a Portion<note n="c" place="margin">Idem in contra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u dotis, &amp; ideo traditione ſecuta perfici<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>batur contractus. <hi>in L. Juris Gen<g ref="char:EOLhyphen"/>tium.</hi>
+                  </note>.</p>
+            </sp>
+            <pb n="28" facs="tcp:99156:15" rendition="simple:additions"/>
+            <sp>
+               <speaker>Germ.</speaker>
+               <p>Had I the liberty to add any thing to theſe Reaſons, I ſuppoſe it might be ſaid, according to the opinion of one of the great<g ref="char:EOLhyphen"/>eſt Civilians of our time, That a Daughter which hath not her Portion paid at the de<g ref="char:EOLhyphen"/>ceaſe of her Father, hath no more a Portion, than if ſhe had never been promiſed any; her birth alone being a ſufficient Title to make her hope for a portion: the Contract of Marriage cannot give her more than hopes, eſpecially when ſhe is obliged to <hi>diſ<g ref="char:EOLhyphen"/>own</hi> all her Fathers Eſtate for the payment of the Portion promiſed<note n="a" place="margin">Non eſt igitur Dos ſi cam pro<g ref="char:EOLhyphen"/>miſero vel pollicitus fuero, ſed ſi tradidero. Dos ſola traditione conſtitultur, non promiſſione. <hi>Cujat. in L. ult. God. de Rei uxor. act. Sect. accedis.</hi>
+                  </note>.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>Without doubt theſe Nullities o<g ref="char:EOLhyphen"/>verthrow the very foundation of the Renun<g ref="char:EOLhyphen"/>tiation, ſince they are drawn from the de<g ref="char:EOLhyphen"/>fault of payment of the Portion, which is the Baſis, and only neceſſary pretence for all Renuntiations. But if you conſider that the In<g ref="char:EOLhyphen"/>heritances which the Council of <hi>Spain</hi> obliged the Queen to renounce, were fallen to her at the time of her Marriage, you will be ea<g ref="char:EOLhyphen"/>ſily convinced, that ſuch a Renuntiation muſt needs be void of all appearance of rea<g ref="char:EOLhyphen"/>ſon;
+<pb n="29" facs="tcp:99156:15" rendition="simple:additions"/>ſince there is not any Maxim more conſtantly and univerſally received in things of this nature than this, that Renuntiations are inconſiſtent with Eſtates already fallen, as being abſolutely oppoſite to the very nature of them: for if it be true (as is before ſaid) that nothing hath authorized them but only the conſideration of a preſent and certain portion in lieu of an expectation on<g ref="char:EOLhyphen"/>ly of an Eſtate, which the variable Revoluti<g ref="char:EOLhyphen"/>ons of Fortune may defeat; how is that poſſibly applicable where an Eſtate is actual<g ref="char:EOLhyphen"/>ly fallen? it conſiſts no more now in expe<g ref="char:EOLhyphen"/>ctation, but in an actual enjoyment and poſ<g ref="char:EOLhyphen"/>ſeſſion, which is no longer to be lookt upon, as a reverſion after the death of another, and ſo renounceable, but as the proper eſtate of the heir, who cannot alienate it but by ſale, exchange, or donation. So alſo the Decre<g ref="char:EOLhyphen"/>tal of <hi>Bonifac<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> the 8th. ſpeaks only of E<g ref="char:EOLhyphen"/>ſtates that may fall; And becauſe 'tis a Law directly oppoſite to common Right, we are by no means to extend it beyond the words thereof, but rather according to all the Do<g ref="char:EOLhyphen"/>ctors to limit and reſtrain it<note n="b" place="margin">Adde Decretelem ipſam ef<g ref="char:EOLhyphen"/>froenem eſſe, &amp; exo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bitantem ut <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>â de cauſa exténdi extra propriamfacti ſpo<g ref="char:EOLhyphen"/>ciem non debeat. <hi>Raph. ad L.</hi> 38. <hi>ff. de Verb. oblig.</hi>
+                  </note>. Hence it is
+<pb n="30" facs="tcp:99156:16"/>that by an unalter'd practice where a Re<g ref="char:EOLhyphen"/>nunciation is made to two inheritances, whereof one is already fallen, the other not; the laſt of them which only could have been lawful, is made null by a kind of infection from the other; ſo odious have Renuncia<g ref="char:EOLhyphen"/>tions of Eſtates already fallen been alwaies accounted<note n="c" place="margin">Quando agitur de Renunti<g ref="char:EOLhyphen"/>atione ſuc<g ref="char:EOLhyphen"/>ceſſionis ſedulò di<g ref="char:EOLhyphen"/>ſtingui de<g ref="char:EOLhyphen"/>bent futura &amp; jam de<g ref="char:EOLhyphen"/>lata. Valet renuntia<g ref="char:EOLhyphen"/>tio ſucceſ<g ref="char:EOLhyphen"/>ſioni futu<g ref="char:EOLhyphen"/>rae ſecus in jam delatâ. <hi>Mol. ſup. Concil.</hi> 29.3. <hi>Vol. Alex.</hi>
+                  </note>. But more eſpecially ought they to be ſo eſteemed in this conjuncture, where they would apply it to Eſtates and Sove<g ref="char:EOLhyphen"/>raignties which were already fallen to the Queen at the time when they made her Renounce them; as if things of this kind could become a matter of humane com<g ref="char:EOLhyphen"/>merce, in prejudice of that right which God has only reſerved to himſelf, to diſtri<g ref="char:EOLhyphen"/>bute by the waies of blood and nature, of which he is the Author. And this is pro<g ref="char:EOLhyphen"/>bably the reaſon which induced the Doctors, <hi>Palaes</hi>
+                  <note n="a" place="margin">Falfiſſimum eſt quod Reges poſſent haeredem &amp; ſucceſſorem in regno ellgere quem volunt, omiſſo filio primogenito velalio legitimo ſucceſſore, quod eſt contra omnia jura &amp; conſuetudines omnium na<g ref="char:EOLhyphen"/>tionum involabiliter obſervatas. <hi>Par.</hi> 2. <hi>q.</hi> 1. <hi>Num.</hi> 57. <hi>&amp;</hi> 58.</note>, <hi>Couvaruvias</hi>
+                  <note n="b" place="margin">Rex non poteſt variare leges &amp; conditiones primogeniturae in prejudicium ſucceſſorum, nec facere quod alius pro alio ſuccedat.</note>, and <hi>Kinſcot</hi> to
+<pb n="31" facs="tcp:99156:16" rendition="simple:additions"/>affirm, that there cannot be a greater ab<g ref="char:EOLhyphen"/>ſurdity then to preſume, that by private Contracts the order of ſucceſſion to Sove<g ref="char:EOLhyphen"/>raignties can be changed; both becauſe it being a matter of <hi>Publique right,</hi> no par<g ref="char:EOLhyphen"/>ticular Agreements can infringe it<note n="c" place="margin">Ljura ſanguinis dereg. juris. L. jus Ag<g ref="char:EOLhyphen"/>nationis ff. de pactis.</note>; as alſo becauſe ſuch power is only in truſt commit<g ref="char:EOLhyphen"/>ted into the hands of Soveraigns, who ought neceſſarily to reſtore it to ſuch a perſon as the Laws of State ſhall call to the Govern<g ref="char:EOLhyphen"/>ment. In ſhort, if a Soveraign be permit<g ref="char:EOLhyphen"/>ted to make his Children Renounce, with how much more truth may it be ſaid that he may in his Family change the Order of ſucceſſion to his Dominions, by preferring the Younger before the Elder, or the Daugh<g ref="char:EOLhyphen"/>ter before the Son; ſince much more power is required to make them Renounce the In<g ref="char:EOLhyphen"/>heritance, then only to change the Order of inheriting in his Family?</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>Let us proceed, Sir, let us pro<g ref="char:EOLhyphen"/>ceed.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>Hitherto Gentlemen, we have ſhewed you ſeveral Nullities againſt Law: but now you ſhall ſee in two Clauſes of the Renunciation, Errors againſt nature, which I am confident will a little ſurprize you.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>I impatiently expect theſe Clauſes: for I do not remember that I ever read any
+<pb n="32" facs="tcp:99156:17"/>ſuch ſtrange paſſages in the Contract.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>One of thoſe Clauſes import, that the Queen and her Poſterity ſhall be for ever excluded from all the Eſtates which either are or ſhall ever be under the Domi<g ref="char:EOLhyphen"/>nion of <hi>Spain;</hi> ſo that if the Race of his Catholick Majeſty ſhould fail, Strangers are to be preferred before her and her Iſſue. The other imports, that this Princeſs ſhall not be excluded from all thoſe rights, but only in caſe that ſhe have Children by this Marriage with his moſt Chriſtian Majeſty: But in caſe ſhe have none, her right ſhall be intirely preſerved. I dare once more, Gentlemen, challenge you in all your Readings by any inſtances in former Ages, to parallel theſe two Clauſes, if not to ſay Prodigies.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>What is it that you find ſo ſtrange in them?</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>Renunciations were not introdu<g ref="char:EOLhyphen"/>ced but for the preſervation of Families; and yet by the firſt of theſe Clauſes, the Father makes uſe of it only to the deſtructi<g ref="char:EOLhyphen"/>on of his Family, in preferring Strangers before his own Blood. Renunciations were never authorized but in favour to the Male-children, and yet by this clauſe 'tis exten<g ref="char:EOLhyphen"/>ded not only in favour to the Daughters,
+<pb n="33" facs="tcp:99156:17"/>but to the younger ones in prejudice to the Queen who is the Eldeſt. Pray tell me, can a Father more abuſe a Renunciation then by making it an inſtrument to deſtroy his own Family contrary to the obligation and nature of all Renunciations, which are never permitted him but only to preſerve it? But again, what is the meaning of the latter Clauſe which diſ-inherits the Queen in caſe ſhe have no Children: but that <hi>Spain</hi> would turn the bleſſing which Heaven might beſtow upon this Glorious Marriage into a curſe? Certainly Nature which always tends to the Conſervation of the <hi>ſpecies,</hi> can<g ref="char:EOLhyphen"/>not without a bluſh behold ſo Exorbitant a Clauſe, which would prefer barrenneſs be<g ref="char:EOLhyphen"/>fore fruitfulneſs. Marriage, which only propoſes to its ſelf the birth of Children, cannot endure the ſcandal of diſ-inheriting a Mother for having Sons and Daughters, which are the bleſſings of Heaven. The Canon and Civil Laws, which are ſo ſevere againſt whatſoever ſhall touch upon the li<g ref="char:EOLhyphen"/>berty, honour or fruitfulneſs of Marriage; cannot without horrour behold a Clauſe ſo injurious to the intention and dignity of Marriages, eſpecially this which is one of the moſt Auguſt and Renowned under Hea<g ref="char:EOLhyphen"/>ver. Methinks ſuch policy cannot expect
+<pb n="34" facs="tcp:99156:18"/>other then the diſdain of all the World, which reduces the Illuſtrious Princeſs to the hard choice of mourning all her days a Bar<g ref="char:EOLhyphen"/>renneſs, that would hinder her from being Mother to a King of <hi>France,</hi> or a fruitful<g ref="char:EOLhyphen"/>neſs by Marriage which would cut her off from being Queen of <hi>Spain:</hi> But this alſo expoſes the whole Monarchy of <hi>Caſtile</hi> to Civil and Inteſtine Wars, which are not like to end but by the ruine and deſtruction of that Crown: For ſuppoſing the Catho<g ref="char:EOLhyphen"/>lick King ſhould dye in his minority, at a time when the Queen ſhould have Children by the moſt Chriſtian King, and that after<g ref="char:EOLhyphen"/>wards theſe Children dye; ſhall the Queen by vertue of this Clauſe go and diſ-inherit her younger Siſter who ſhall have taken poſſeſſion of the Crown and received their Homages accordingly?</p>
+            </sp>
+            <sp>
+               <speaker>Germ.</speaker>
+               <p>This Clauſe does infinitely ſur<g ref="char:EOLhyphen"/>prize me.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>Yet 'tis not without preſident, ſince in the year 1615. <hi>Anne</hi> of <hi>Auſtria In<g ref="char:EOLhyphen"/>fanta</hi> of <hi>Spain</hi> made the like Renunciation, by her contract of Marriage with <hi>Lewis</hi> the 13. King of <hi>France.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>This example reaches not at all our Caſe. For <hi>Anne</hi> of <hi>Auſtria</hi> had 4 Brothers of the whole blood, at the time of
+<pb n="35" facs="tcp:99156:18"/>her Renunciation, <hi>viz. Philip, Charles, Ferdi<g ref="char:EOLhyphen"/>nand,</hi> and <hi>Alphonſo;</hi> whereas <hi>Maria Thereſa</hi> our Princeſs had none, ſhe being the ſole remainder of that bed. <hi>Anne</hi> of <hi>Auſtria</hi> had no eſtate fallen to her. <hi>Maria Thereſa</hi> had the inheritance of her Mother, &amp; <hi>Don Balthazar</hi> her Brother, which then became hers. <hi>Anne</hi> of <hi>Auſtria</hi> received of the pure bounty of her Father, the five hundred thouſand Crowns of Gold given her for her Portion. <hi>Maria Thereſa</hi> had due to her in a debt upon ac<g ref="char:EOLhyphen"/>count the ſum of 500000 Crowns of Gold promis'd to her in ſatisfaction for the Marri<g ref="char:EOLhyphen"/>age Portion of Queen <hi>Elizabeth</hi> her Mother. <hi>Anne</hi> of <hi>Auſtria</hi> received her Portion by way of exchange for another of the ſame value made to <hi>Elizabeth</hi> of <hi>France,</hi> who was the ſame day Married to the Prince of <hi>Spain,</hi> ſince King <hi>Philip</hi> the 4<hi rend="sup">th</hi>. <hi>Maria Thereſa</hi> never received any part of what was promis'd her. In fine, <hi>Anne</hi> of <hi>Auſtria</hi> re<g ref="char:EOLhyphen"/>nounced upon a pretention which cannot be found in this caſe, for there being then a double Marriage made between <hi>France</hi> and <hi>Spain;</hi> the <hi>Spaniards</hi> who affected much to have an equality obſerved between both parties, agreed that <hi>Anne</hi> of <hi>Auſtria</hi> might be excluded from the Crown of <hi>Caſtile,</hi> as <hi>Elizabeth</hi> of <hi>France</hi> was from that of <hi>France</hi>
+                  <pb n="36" facs="tcp:99156:19"/>by the Salique Law, which admits of none but Males. You ſee then how much theſe Inſtances differ: beſides, this example ſtands alone againſt the practice of all former A<g ref="char:EOLhyphen"/>ges, and againſt the Fundamental Laws of State; for it cannot be found either in <hi>Spain, England, Scotland, Swedland,</hi> or any other Soveraignties that are inheritable by Females, that any of their Daughters were ever obliged by their Marriage to re<g ref="char:EOLhyphen"/>nounce their hopes of ſucceſſion to the Crown in the Order it ſhould fall to them. <hi>Louis</hi> VII. and <hi>Louis</hi> VIII Kings of <hi>France</hi> Married with <hi>Infantas</hi> of <hi>Spain,</hi> and no ſuch Renunciation ever required. The 3 Daugh<g ref="char:EOLhyphen"/>ters of <hi>Ferdinand</hi> King of <hi>Spain,</hi> the 4 Daughters of <hi>Philip</hi> the I. the 2 Daughters of <hi>Charles</hi> the V. the 2 Daughters of <hi>Philip</hi> II. the 6 Danghters of <hi>Ferdinand</hi> I. all of them <hi>Infantas</hi> of <hi>Spain,</hi> and Married to For<g ref="char:EOLhyphen"/>raign Princes, never made any Renunci<g ref="char:EOLhyphen"/>ation: ſo that this one only example is ſo far from authorizing this procedure of <hi>Spain,</hi> that on the other ſide this particular inſtance of a double Marriage then contra<g ref="char:EOLhyphen"/>cted, and the want of an actual Eſtate fallen to the perſon of <hi>Anne</hi> of <hi>Auſtria,</hi> carries with it ſuch an exception as confirms the juſtice of all ancient example: beſides,
+<pb n="37" facs="tcp:99156:19"/>that which was never, but once done, is not to be drawn in to preſident, eſpecially on this occaſion, where the Renuntiation made by <hi>Anne</hi> of <hi>Auſtria,</hi> being eſſentially null, can give them but little advantage, be<g ref="char:EOLhyphen"/>cauſe an Act paſſed contrary to publick Right, and the Fundamental Maximes of a State, ought not to be drawn into an Ex<g ref="char:EOLhyphen"/>ample or Conſequence.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>I confeſſe the Example is rare; but is not the happineſſe of a publick peace, and the Ratification of the Clauſe by the King of <hi>France</hi> ſufficient enough to cover the faults that may be found in the Ratification?</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>Such kind of Agreements will ra<g ref="char:EOLhyphen"/>ther violate, than eſtabliſh a peace: and I may ſay further, that 'tis a prophanation of it, to make it inſtrumental to deſtroy the Rights of Bloud, which are the ſtrongeſt bonds of Peace and Union among Sove<g ref="char:EOLhyphen"/>raigns; But can any thing ſeem ſtranger, than to ſay, that in favour of a Peace, the Queen and her poſterity are to be deprived of all their Birthrights? And that the Catholick King her Father and Tutor may retain all that he enjoys of her Eſtate to beſtow it up<g ref="char:EOLhyphen"/>on his Children by a ſecond <hi>Venter?</hi> Pray, be pleaſed to tell me, what affinity there is
+<pb n="38" facs="tcp:99156:20"/>between the Peace and Renuntiation. The Treaty of Peace ſpeaks not one word of it; and the powers given to the Pleni-Potentia<g ref="char:EOLhyphen"/>ries for concluding it, ſpeak not in any wiſe whatſoever either of the Renuntiation or Marriage. As to the moſt Chriſtian Kings Ratification, that might have ſome conſe<g ref="char:EOLhyphen"/>quence, had there been no other Nullity in the Queens Renuntiation, but only the want of the King her husbands Authorization of it<note n="a" place="margin">confirma<g ref="char:EOLhyphen"/>tur res in<g ref="char:EOLhyphen"/>valids ſi e<g ref="char:EOLhyphen"/>jus perfe<g ref="char:EOLhyphen"/>ctioni ob<g ref="char:EOLhyphen"/>ject ſolum diſsenſus habencium ratum, ali<g ref="char:EOLhyphen"/>oqui ſi alia obſtarent non confir maretur ra<g ref="char:EOLhyphen"/>tihabitio<g ref="char:EOLhyphen"/>ne. <hi>Da<g ref="char:EOLhyphen"/>maſc. tr. De Broc. membr.</hi> 3. <hi>Nu</hi> 7 <hi>Ra<g ref="char:EOLhyphen"/>tihabitio<g ref="char:EOLhyphen"/>ne non valid <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ur id quod nu lum eſt. Az lib.</hi> 15. <hi>tit.</hi> 21.</note>. But can any one think that a Re<g ref="char:EOLhyphen"/>nuntiation made by a <hi>Minor,</hi> to the advan<g ref="char:EOLhyphen"/>tage of the Father and his other Children by a ſecond <hi>Venier,</hi> without any Portion paid, without liberty, without knowledge, and without Authorization, in the caſe of an E<g ref="char:EOLhyphen"/>ſtate already fallen to her, which in its own nature is inalienable, can be made good by the Husbands Ratification? This ſuppoſed, the Decretal hath little reaſon to ſay that a Renuntiation is voyd, where the Daughter hath no portion given her. For ſince every Woman is authorized by her Husband, by the Contract of Marriage for all the Articles therein contained; Never any of that Sex can complain of any Renuntiation that can be exacted, becauſe of the obvious objection of a fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mal Authorization and Approbation of the Husband, by the Contract of Marri<g ref="char:EOLhyphen"/>age.
+<pb n="39" facs="tcp:99156:20"/>But on the other ſide, if it be plain, that an Husband cannot in any manner alie<g ref="char:EOLhyphen"/>nate the Right or Eſtate of his Wife, how then can it be poſſible that the moſt Chriſtian King can by his Ratification make the Queen his Wife loſe thoſe Eſtates and Soveraignties which ſhe her ſelf had not power to alienate? Give me leave to ſay, that it cannot be be<g ref="char:EOLhyphen"/>lieved without a manifeſt violence to Rea<g ref="char:EOLhyphen"/>ſon, that a Ratification of the Husband is of greater force and efficacy than the Wives perſonal Renuntiation, to deprive her of her Rights. But after all this, <hi>Spain</hi> having ſince the marriage of the <hi>Infanta</hi> obtained that Renuntiation by ſome private Acts, which they never yet durſt ſhew, who can imagine that his moſt Chriſtian Majeſty hath legally ratified, without ſeeing them, ſince according to all our Principles, and ac<g ref="char:EOLhyphen"/>cording to the very Eſſence of a Ratification, ſuch an Act requires a perfect knowledge<note n="a" place="margin">Ad hoc ut ratifica<g ref="char:EOLhyphen"/>tio ſibi vindi<g ref="char:EOLhyphen"/>cet locum, oporter, ut ille qui vult hab<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re ratum, ſciat &amp; cognoſeat, &amp; comprober quod factum eſt aliàs. Nemo quod ignorat approbat &amp; ratum hab<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t. <hi>Lancel. tract. de attent. cap.</hi> 1. <hi>Num.</hi> 72.</note>. and that the Act ſo ratified be preſented in a good and ſufficient Form.</p>
+            </sp>
+            <pb n="40" facs="tcp:99156:21"/>
+            <sp>
+               <speaker>Germ.</speaker>
+               <p>I alwaies conceived that the <hi>Infan<g ref="char:EOLhyphen"/>ta</hi> had made her Renuntiation by her Con<g ref="char:EOLhyphen"/>tract of marriage: was it not ſo?</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>Indeed thoſe Miniſters that treated of this Marriage in abſence of the parties a<g ref="char:EOLhyphen"/>greed amongſt themſelves, that the <hi>Infanta</hi> ſhould make a Renuntiation, but it was not drawn till afterwards, and in Inſtruments which <hi>France</hi> never ſaw.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>Pray Sir let us ſtay no longer upon this Renuntiation, but return to the Title and Pretenſions of the <hi>Infanta.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>I am content, though there are ſeveral other Arguments behind; but the minority of the <hi>Infanta,</hi> the quality of the Father, being the perſon of his Catholick Majeſty, the agreement made in favour of his Children by his ſecond Wife; want of power in the Miniſters that made that Agree<g ref="char:EOLhyphen"/>ment, and conſented to the Renuntiation, and the nullity of the Ratifications made by the Queen ſince her Marriage without the authorization of his moſt Chriſtian Majeſty, are all of them powerful Arguments, and fully handled in the Manuſcript that I have ſeen.</p>
+            </sp>
+            <sp>
+               <speaker>Germ.</speaker>
+               <p>What need have we to inſiſt any longer upon the Renuntiation? This Gen<g ref="char:EOLhyphen"/>tleman hath ſufficiently aſſured you that he
+<pb n="41" facs="tcp:99156:21"/>reſts ſatisfied, when he deſired you to go on to the Rights themſelves: And for my part, I aſſure you I have nothing to object, after ſo many Reaſons which you have taken the pains to ſhew us.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>Upon your deſires I return to the Rights themſelves; which conſiſt, as I told you, in the Dutchy of <hi>Brabant,</hi> with its Annexes, the Seigneury of <hi>Malines, Ant<g ref="char:EOLhyphen"/>werp,</hi> upper <hi>Guilderland, Limbourg,</hi> and its united places, <hi>Namur, Haynault, Artois, Cambray, Burgundy,</hi> and <hi>Luxenburg.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Germ.</speaker>
+               <p>You told us, that the greateſt part of theſe Pretenſions were founded upon a Right of Devolution practiſed in ſeveral of theſe Dominions: Be pleaſed to tell us the nature of it, and what effect it hath amongſt you, for the better handling and clearing of this Subject.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>By this Right of Devolution, if one of the married perſons die, the Chil<g ref="char:EOLhyphen"/>dren iſſuing from that Marriage are ſeized in property of all the Fiefs that belong to the Survivor. So that if the Husband ſurvives, he becomes only Tenant for life to his own Lands, the Property belongs to the Chil<g ref="char:EOLhyphen"/>dren, though the Mother had no Title at all.</p>
+            </sp>
+            <sp>
+               <speaker>Germ.</speaker>
+               <p>Is there no particular Law at all in
+<pb n="42" facs="tcp:99156:22"/>force concerning this Cuſtom? or doth this Right ſpring meerly from uſage?</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>In their Cuſtoms or Common Law there are expreſs Texts for it.</p>
+            </sp>
+            <sp>
+               <speaker>Germ.</speaker>
+               <p>Let us if you pleaſe, particularly examine them, and begin with <hi>Brabant,</hi> which is the nobleſt, and moſt important of all the Dominions.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>Theſe are the words of the Cu<g ref="char:EOLhyphen"/>ſtom as far as my memory will give me leave, and as near as I can tranſlate them out of Latine.<note n="*" place="margin">Si Vir vel Uxor quibus li<g ref="char:EOLhyphen"/>beri ſuper<g ref="char:EOLhyphen"/>ſunt, mo<g ref="char:EOLhyphen"/>ritur, ad prolem u<g ref="char:EOLhyphen"/>nam vel plures per ſeparatio<g ref="char:EOLhyphen"/>nem thori proprietas feudorum provenentium ex latere Superſti<g ref="char:EOLhyphen"/>tis, devolvitur, ſervato ſuperſtiti ſolummodo feudorum uſufructu hereditario. <hi>Cap.</hi> 1. <hi>Art.</hi> 2.</note> 
+                  <hi>If a man or woman die, leaving Children behind them, by this ſepara<g ref="char:EOLhyphen"/>tion of Marriage, the property of the Fiefs, though they come by the Survivor, doth devolve, or [paſs to the Child, or Children born by that Marriage] the Survivor becoming only Tenant for Life.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Germ.</speaker>
+               <p>Lunderſtand it well. But as there are many Laws which have been abrogated by ſome contrary Cuſtom, may not this be ſo too?</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>'Tis ſo far from that, that no Cuſtom is more carefully obſerved than this.
+<pb n="43" facs="tcp:99156:22"/>
+                  <hi>Kingſcot,</hi> Chancellor of <hi>Brabant,</hi> who died in the year 1608. whom we may juſtly ſtile the Oracle of his Country, writes, that by the Cuſtom of that Dutchy the property of Fiefs whether patrimonial, or otherwiſe ac<g ref="char:EOLhyphen"/>quired, do at the very inſtant of the diſſolu<g ref="char:EOLhyphen"/>tion of Marriage, paſs to the Children of the firſt bed, leaving no manner of pretence to thoſe that ſhall be born of the ſecond<note n="b" place="margin">Conſue<g ref="char:EOLhyphen"/>tudine ge<g ref="char:EOLhyphen"/>nerali <hi>Bra<g ref="char:EOLhyphen"/>bantiae,</hi> proprietas bonorum ſeudallum devolvitur ad prolem, diſ<g ref="char:EOLhyphen"/>ſoluto eo Matrimonio, quo ſtante bons ejuſmodi ſuere unius vel alterius conjugum, five ſint patrimonialia, five acquiſits, its ut proles ſecundi Matrimonii in ſucceſſione Parentis, qui Superſtes fuit, nihilex talibus bonis conſequatur. <hi>Reſp.</hi> 65. <hi>Nu.</hi> 1.</note>.</p>
+               <p>
+                  <hi>Chriſtineus,</hi> a famous Doctor of that Nation, affirms, that a devolution made by the death of one of the married perſons, doth (as it were) anticipate the ſucceſſion in favour of the Children by the firſt <hi>Venter,</hi> abſo<g ref="char:EOLhyphen"/>lutely excluding thoſe of the ſecond<note n="c" place="margin">Notan<g ref="char:EOLhyphen"/>dum hic eſt quod devo<g ref="char:EOLhyphen"/>lutio bonorum quae ſit per mortem alterius conjugum fieri cenſetur quaſi per anticipationem ſucceſſionis, quoad proprietatem tantum. <hi>In Concil. Meklin. tit.</hi> 16. <hi>Art.</hi> 4. <hi>in addit.</hi>
+                  </note>.</p>
+               <p>
+                  <hi>Frederick de Saude,</hi> in a Chapter which he expreſſely made upon the chief Cuſtoms of <hi>Brabant,</hi> tells us, that in reſpect to the firſt
+<pb n="44" facs="tcp:99156:23"/>Marriage, and in favour to the Children begotten in it, this Right of Devolution hath been introduced and obſerved in that Dut<g ref="char:EOLhyphen"/>chy with more than ordinary Religion and exactneſs<note n="d" place="margin">Ob ho<g ref="char:EOLhyphen"/>norem pri<g ref="char:EOLhyphen"/>marum Nuptiarum, &amp; favorem priorum liberorum, Brabantiae moribus introductum eſſe, ut matrimonio poſt morcem alterius Conjugum ſoluto, tam Superſtitis quam defuncti feuda deferantur communi<g ref="char:EOLhyphen"/>bus liberis, ſalvo tamen Superſtiti uſu fruct. feudorum ab ipſo pro<g ref="char:EOLhyphen"/>fectorum, ſive ex haereditate ſibi obvenerint, ſive ex induſtriâ quaeſiverit. <hi>In Conſ. Feud. Gueldriae &amp; Zutphanioe tit.</hi> 1. <hi>Numb.</hi> 1. <hi>Sect.</hi> 9.</note>.</p>
+               <p>The Judgment lately given at the great Council of <hi>Malines,</hi> in the Count <hi>de Bergues</hi> caſe; and that latter one concerning the Mar<g ref="char:EOLhyphen"/>quiſate of <hi>Berg. of ſom</hi> adjudg'd to the Coun<g ref="char:EOLhyphen"/>teſs <hi>D'Auvergn</hi> upon the death of her Father, though the Marquiſate came by her Mother, are unqueſtionable proofes of the practiſe of this Right of Devolution: And his moſt Chriſtian Majeſty putting this Caſe to one of the moſt famous perſons of your Brethren, but under borrowed names, he gave his Judgment in favour of the Daughter of the firſt Bed, againſt the Son and all the Chil<g ref="char:EOLhyphen"/>dren of the ſecond.</p>
+            </sp>
+            <pb n="45" facs="tcp:99156:23"/>
+            <sp>
+               <speaker>Germ.</speaker>
+               <p>It being ſo, where lies the diffi<g ref="char:EOLhyphen"/>culty, ſince that cuſtom is conformable to Law, and the 'tis manifeſt His Catholick Majeſty was in poſſeſſion of <hi>Brabant,</hi> at the time of the Diſſolution of his firſt Mar<g ref="char:EOLhyphen"/>riage?</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>The difficulty lies in 4 principal points which it will concerns us to clear, before we proceed further to the buſineſs of the Title.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>What, Sir, are theſe 4. Diffi<g ref="char:EOLhyphen"/>culties?</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>The firſt is, that the Local Cu<g ref="char:EOLhyphen"/>ſtoms cannot be a rule to the Inheritances of Soveraignties. The ſecond, that the Devo<g ref="char:EOLhyphen"/>lution being not an actual and effective right, but only a bare expectancy which could not be compleated till the death of the Survivor; the <hi>Infanta</hi> might make a good Renunciation. The third, that the Eſtates of the Low Countries were re-united into one body by the <hi>Pragmatick</hi> [or ſo<g ref="char:EOLhyphen"/>lemn Conſtitution] of <hi>Charles</hi> the 5th in the year 1549. and cannot be enjoy'd but by one perſon, and he a Soveraign. The 4th is, that the Catholick King leaving behind him a Son, though by a ſecond <hi>Venter,</hi> he ex<g ref="char:EOLhyphen"/>cludes the Daughter of the firſt from the inheritance in queſtion.</p>
+            </sp>
+            <pb n="46" facs="tcp:99156:24"/>
+            <sp>
+               <speaker>Germ.</speaker>
+               <p>I confeſs I did not foreſee theſe Objections, which notwithſtanding appear to be very Solid and Eſſential.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>I muſt give you ſatisfaction in them, but I believe in truth, they are rather propoſed to try my skill in their ſolution, then that there is really any difficulty in them. For I am perſwaded, that this Gen<g ref="char:EOLhyphen"/>tleman is better verſed in the Hiſtories of his Country, and a perſon of greater judgement then to propoſe them ſeriouſly. The very Records of <hi>Brabant</hi> inform me, that the right of Devolution eſtabliſh'd by the Cuſtom of <hi>Brabant,</hi> is ſo exactly obſer<g ref="char:EOLhyphen"/>ved in the ſucceſſion of the Soveraign, and even in regard of the Soveraignty it ſelf, that about the year 1230. a diſpute ariſing between the Duke on one ſide, and his Son on the other; and the queſtion being put whether the Duke poſſeſſing that Dutchy in his own right, had not loſt the property of it upon the Deceaſe of the Dutcheſs his Wife, by Vertue of the Devolution; The Empe<g ref="char:EOLhyphen"/>rour <hi>Henry</hi> aſſembled all the Princes of his Court, and after a charge given in as ample a manner, as a cauſe ſo famous could require; at length by the advice of his Council gave ſentence, that the property belonged to the Son upon the deceaſe of his Mother,
+<pb n="47" facs="tcp:99156:24"/>although ſhe had no manner of right whatſoever upon her own account, pro<g ref="char:EOLhyphen"/>hibiting the Duke from proceeding further in it to the prejudice of his Children<note n="a" place="margin">
+                     <hi>Henricus</hi> Dei Gra<g ref="char:EOLhyphen"/>tia Rom. Rex ſemper Auguſtus: omnibus ad quos praeſens ſcriptum pervenerit gratiam ſuam &amp; omne bo<g ref="char:EOLhyphen"/>num. No<g ref="char:EOLhyphen"/>tum faci<g ref="char:EOLhyphen"/>mus, quod cum <hi>Hen<g ref="char:EOLhyphen"/>ricus</hi> ma<g ref="char:EOLhyphen"/>jot filius Illuſtris principis Ducis Lo<g ref="char:EOLhyphen"/>ther. ma<g ref="char:EOLhyphen"/>tram habu<g ref="char:EOLhyphen"/>erit &amp; illa ſit mortua, per ſententiam principum in Curia noſtra eſt judicatum, quod ſi idem Dux, de bonis quae poſſider, aliquid alienaret, vel in manus vellet transferre alienas, dictus <hi>Henricus</hi> ſe de iiſdem bonis poſſet intromittere &amp; occupare licenter ad uſus ſuos &amp; tenere. Da<g ref="char:EOLhyphen"/>tum <hi>Fridbergae</hi> an. gratiae 1230. ptox. Dom. poſt Feſtum Paſchae. 4. Cal. Maii. Indict 3. <hi>Bukenheph.</hi> de <hi>Brahant.</hi>
+                  </note>. I have read alſo in the ſame Records a let<g ref="char:EOLhyphen"/>ter of 1273<g ref="char:punc">▪</g> written by the Emperour <hi>Ro<g ref="char:EOLhyphen"/>dolph</hi> I. to <hi>John</hi> Duke of <hi>Brabant,</hi> in which he ſtrongly confirms the Vertue of this right of Devolution in the ſucceſſion of the Dukes; and it cannot be denyed but that the Emperour <hi>Charles</hi> the Fifth, after the death of the Empreſs his Wife, ſo fully ac<g ref="char:EOLhyphen"/>knowledged, that the property of <hi>Brabant</hi> was paſſed into the perſon of <hi>Philip</hi> his Son by this right of Devolution that he publickly proteſted, he could neither con<g ref="char:EOLhyphen"/>firm the Cuſtoms nor meddle with the Priviledges of the Country, but jointly with his Son. But if from examples we proceed to argument in the examination of the power of Local Cuſtoms, in relation to the inheritance of Soveraignties, nothing
+<pb n="48" facs="tcp:99156:25"/>can be more eaſily proved; for there are only three ſorts of Laws that can be of uſe to regulate Soveraignties. That of a So<g ref="char:EOLhyphen"/>veraignty it ſelf, if it have any particular Law to guide it; The Laws of the Neigh<g ref="char:EOLhyphen"/>bouring Kingdoms, or thoſe of the Coun<g ref="char:EOLhyphen"/>try. As to the particular Laws of each Crown, 'tis certain that where any ſuch are, they are neceſſarily obliged to follow them; as in <hi>France,</hi> the Salique Law; in <hi>Poland,</hi> and ſeveral States in the Northern parts, their form of Election: But where no particular Law can be found, I affirm that 'tis the worſt of errors to pretend, that the ſucceſſion to a Soveraignty ought not to be regulated by the cuſtom of the Coun<g ref="char:EOLhyphen"/>try, becauſe in ſuch a caſe they would be obliged to regulate themſelves by the Law and Cuſtoms of their Neighbours, which were to offer a great injury to the Sove<g ref="char:EOLhyphen"/>raignty; or to affirm that it ought not to have either Rules or Principles to deter<g ref="char:EOLhyphen"/>mine to whom it of right belongs, which would be the moſt ſtrange abſurdity in the World. For never yet did any Doctors either of <hi>Spain</hi> or any other Nation whatſo<g ref="char:EOLhyphen"/>ever, make a doubt of the force and power of Cuſtom, in regulating the ſucceſſion of ſuch Soveraignties as have no particular Law to
+<pb n="49" facs="tcp:99156:25"/>direct them: Witneſs <hi>Molina. Gatieres</hi> and <hi>Couvaruvias</hi> who unanimouſly aſſure us that the Crown of <hi>Spain</hi> being the chiefeſt <hi>Majoraſque</hi> of the Kingdom, it ought in<g ref="char:EOLhyphen"/>diſpenſably to conform to the Laws intro<g ref="char:EOLhyphen"/>duced by the Cuſtoms of the County, for the <hi>Majoraſques</hi>
+                  <note n="a" place="margin">Ipſum Hiſpania<g ref="char:EOLhyphen"/>rum reg<g ref="char:EOLhyphen"/>num veriſ<g ref="char:EOLhyphen"/>ſimum Ma<g ref="char:EOLhyphen"/>joratum eſſe ad prae<g ref="char:EOLhyphen"/>ciſum or<g ref="char:EOLhyphen"/>dinem pri<g ref="char:EOLhyphen"/>mogenitu<g ref="char:EOLhyphen"/>rae; hoc autem a<g ref="char:EOLhyphen"/>deo verum eſt, ut ſe<g ref="char:EOLhyphen"/>cure &amp; confiden<g ref="char:EOLhyphen"/>ter dici poſſit non ſolùm Hiſpaniarum regnum, verum majoratum eſſe, imo regnum ipſum eſſe caput omnium Hiſpaniorum primogeniorum, ab eo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> caetera primogenia tanquam à capite derivari, ſuccedendi<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ratio<g ref="char:EOLhyphen"/>nem accipere, adeo ut ſi de ſuccedendi ordine in <hi>Hiſpaniae</hi> majorati<g ref="char:EOLhyphen"/>bus contendatur, ea lis fit ſecundum leges ad regni ſucceſſionem inſti<g ref="char:EOLhyphen"/>tutas decidenda. <hi>L.</hi> 16. <hi>cap.</hi> 20. <hi>Nu.</hi> 10. <hi>Joan. Gat. cap.</hi> 4. <hi>lib.</hi> 10. <hi>cap.</hi> 14. <hi>Nu.</hi> 58. <hi>&amp;</hi> 59. <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ouuar. Var. reſol. lib.</hi> 3. <hi>cap</hi> 5. <hi>Nu.</hi> 8.</note>. But that which may deceive the common people in things of this nature, is the confounding the perſon of the Soveraign, with the Laws of his Soveraign<g ref="char:EOLhyphen"/>ty; though they are two things infinitely different. For as to the Soveraign himſelf, ſo long as he lives, his Reaſon is the very Soul of the Cuſtoms; but as to the Laws belonging to the Soveraignty, vacated by the death of the Prince, the Cuſtom is then the ſoul and liſe, and that which gives it motion, by which it paſſes into the hands of him that is legally to receive it, at a time when there is no particular Law that can
+<pb n="50" facs="tcp:99156:26"/>convey it. In a word, you are to conſider that we treat not here of a Soveraignty, as ſuch, but as an inheritance; not of a Roy<g ref="char:EOLhyphen"/>alty living, but of one dead and without life; which is not in this caſe an active po<g ref="char:EOLhyphen"/>wer to make Laws, but a Fief, an Inheri<g ref="char:EOLhyphen"/>tance, a Right, a Succeſſion which ought to have its certain Rules, but cannot have any other then the general Cuſtom of the Country, where it hath no particular Law of its own.</p>
+            </sp>
+            <sp>
+               <speaker>Germ.</speaker>
+               <p>They have the ſame practice in the Eſtates of <hi>Germany.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>You may ſay, Sir, if you pleaſe, in all the Nations of the world that are go<g ref="char:EOLhyphen"/>verned by reaſon. To go on, I doubt not but you were as much ſurprized as I was, to hear it objected, that the Queen might make a firm Renunciation of that which was fallen to her by right of Devolution, it being (as 'twas ſaid) but a bare expectan<g ref="char:EOLhyphen"/>cy and not a real right fallen to her. For beſides that the Renunciation which ſhe was made to make cannot be juſtify'd, as appears by all the reaſons formerly exami<g ref="char:EOLhyphen"/>ned; you know that according to the 2d Article of this Cuſtom which introduces Devolution, the Children that iſſue from the Marriage are ſeized of the property, in
+<pb n="51" facs="tcp:99156:26"/>the very inſtant of the deceaſe of either Man or Wife, and from that very mo<g ref="char:EOLhyphen"/>ment the Survivor becomes only a Tenant for life; ſo that he cannot have any thing to do with the property, as was decided by that famous judgement of the Emperour and all the Princes of his Court in the caſe above-mentioned. And you know too, that all the Doctors that have writ of it, call this Title, a ſucceſſion anticipated; which is very oppoſite to a ſimple and bare ex<g ref="char:EOLhyphen"/>pectancy.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>'Tis a ſtrange thing that you ſhould diſpute this point with me, for it is a certain truth that Children cannot thus diſ<g ref="char:EOLhyphen"/>poſe of an Eſtate, nor enjoy it unleſs they ſurvive their Father and Mother, and conſe<g ref="char:EOLhyphen"/>quently all the right they have is only a bare expectancy of the thing, in caſe they are heirs to the ſurvivour of man or wife.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>Sir, if you pleaſe let us uſe leſs partiality and more freedom, your Cu<g ref="char:EOLhyphen"/>ſtom ſays, that after the deceaſe of one of the Married perſons, their common Chil<g ref="char:EOLhyphen"/>dren are made proprietors of the Fiefs of the ſurvivor; It orders further, that if the Children themſelves dye before ſuch ſurvi<g ref="char:EOLhyphen"/>vor, the property of the Fiefs, that was before loſt by right of Devolution, reverts
+<pb n="52" facs="tcp:99156:27"/>to the ſaid ſurvivor. All your Doctors agree that by vertue of this Right the Children are ſo effectually ſeized of the inheritance, that the ſurviving Parent cannot in any manner diſpoſe of it, no not ſo much as al<g ref="char:EOLhyphen"/>ter or leſſen it: To conclude, it hath been judged in the Imperial Chamber at <hi>Spire,</hi> that a Father who gave no other Portion to his Daughter but out of an Eſtate that was devolved by the death of his Wife, ſhould not be held to have given her a Portion, becauſe the Eſtate did not belong to him, but to the Daughter; and yet in deſpight of all theſe Authorities, you would make us believe that this right of devolution transfers neither the property of the Fiefs or any thing at all that is real to the Children by ſuch Marriage. If it be ſo, you ought to aboliſh your Cuſtoms, con<g ref="char:EOLhyphen"/>demn your Doctors, and overthrow all Uſage; For though the Children cannot diſpoſe of, nor enjoy the Eſtate during the life of the ſurvivor; this does not make them to be the leſs proprietors. As 'tis in matter of Dower or Donation, made in caſe the Donee ſurvive; The Children of the Wife endowed and the Donees are the true proprietors although they cannot enjoy
+<pb n="53" facs="tcp:99156:27"/>nor diſpoſe of what is given them, till after the death of the Father or Donor.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>I deny not but Cuſtom, the Do<g ref="char:EOLhyphen"/>ctors and Decree of the Imperial Chamber of <hi>Spire,</hi> give the property to the Children of the Survivor. But have you not ſeen a Trea<g ref="char:EOLhyphen"/>tiſe of the Right of Devolution, printed not long ſince at <hi>Bruſſels?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>Is it not that which was compoſed by an Officer of his Catholick Majeſty in the Council of <hi>Brabant?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>The very ſame.</p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>I have read it.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>You have ſeen then how he proves that the Cuſtom is ill expounded, that the Doctors are deceived, and that the Imperi<g ref="char:EOLhyphen"/>al Chamber of <hi>Spire</hi> underſtood not the na<g ref="char:EOLhyphen"/>ture and the effects of the Right of De<g ref="char:EOLhyphen"/>volution. Do ye not allow him to be an able man?</p>
+            </sp>
+            <sp>
+               <speaker>Fren.</speaker>
+               <p>Not only that he is very able, but I add, that he appears to be a very honeſt man, for one may diſcover throughout his work a kind of ſincerity, which is better than all the Learning in the world. Have you obſerved with what Ingenuity this Au<g ref="char:EOLhyphen"/>thor, who hath no ſmall Talent, in avoid<g ref="char:EOLhyphen"/>ing and putting by difficulties, hath ſpoken of the Devoltuion? He grant 'tis a Privi<g ref="char:EOLhyphen"/>ledge
+<pb n="54" facs="tcp:99156:28"/>of the firſt Marriage againſt the ſecond<note n="a" place="margin">Apud omnes qui<g ref="char:EOLhyphen"/>dem Gentes cultiores, eſt aliquis honos &amp; praerogativa primârum Nupriarum &amp; liberorum qui ex iis geniti ſunt: Sed nuſquam tan<g ref="char:EOLhyphen"/>ta quam apud Brabantos &amp; Vicinas aliquot Nationes, apud quos diſſoluto primo Matrimonio, five ſecundum ſequatur, five non, libe<g ref="char:EOLhyphen"/>ris ipſius thori obveniunt bone omnia immobilia utriuſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Parentis, <hi>&amp;c. Stockm. cap.</hi> 1. <hi>fol.</hi> 1.</note> He agrees that the Effect of this Right is to ſeize the Children from the very mo<g ref="char:EOLhyphen"/>ment of the Diſſolution of Marriage<note n="b" place="margin">Devolu<g ref="char:EOLhyphen"/>tio Ratim à ſoluto matrimonio bona Superſtitis parentis liberis addicit. <hi>Stockm cap.</hi> 4. <hi>fol.</hi> 31.</note> He confeſſes, that the Children by the ſecond Bed can pretend to nothing in pre<g ref="char:EOLhyphen"/>judice of thoſe by the former<note n="c" place="margin">Liberi primi con<g ref="char:EOLhyphen"/>jugii excludunt liberos ſecundi ab eorundem bonorum ſucceſſione, <hi>&amp;c. Stockm. cap.</hi> 1. <hi>fol</hi> 7.</note> And he acknowledges alſo, that a daughter by the firſt <hi>Venter</hi> excludes a ſon by the ſecond<note n="d" place="margin">Jus devo<g ref="char:EOLhyphen"/>lutionis quod viget inter privatos adeo benignum eſt liberis primi thori, &amp; ita alienum à liberis ſecundi thori, ut ſi contingat unicam ſupereſſe filiam ex primo, &amp; maſculum ex ſecundo, filia maſculum omnino excludat à boni<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> devolutis, <hi>&amp;c. Stockm. cap.</hi> 18 <hi>fol.</hi> 126.</note>
+                  <pb n="55" facs="tcp:99156:28"/>For my part, I ſee nothing that is more ho<g ref="char:EOLhyphen"/>neſt than the ſincerity and plain dealing of this man. 'Tis true, he accuſes the Cu<g ref="char:EOLhyphen"/>ſtoms, the Doctors, and the Imperial Cham<g ref="char:EOLhyphen"/>ber of <hi>Spire,</hi> to be all in an error<note n="e" place="margin">
+                     <hi>Fol.</hi> 9 12, 13.44.47. <hi>&amp;</hi> 121. <hi>Annal. lib.</hi> 1. <hi>fol.</hi> 6.</note> But how could he ſay leſs in the neceſſity impo<g ref="char:EOLhyphen"/>ſed on him to ſpeak ſomewhat in behalf of the Cauſe which he was to defend? Or ra<g ref="char:EOLhyphen"/>ther how could he more clearly condemn it, than by confeſſing that it was manifeſtly contrary to the words of their Cuſtom, to the Opinion of their Doctors, and to the Decrees of the moſt principal Aſſemblies of <hi>Germany?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Germ.</speaker>
+               <p>I ſhould much deſire to ſee this Book: for I confeſs theſe Acknowledgments may have ſome Force.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>If this Gentleman pleaſes to take the pains to ſend for it, I will ſhew you all theſe places.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>Do you thus take your advan<g ref="char:EOLhyphen"/>vantages? You ſay you think him ſincere, and yet you will not believe him when he tells you that the Cuſtom and the Doctors were miſtaken.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>Give me leave to tell you again, that I believe he is ſincere, it doth not hence follow that he is infallible; or that I ought
+<pb n="56" facs="tcp:99156:29"/>to prefer his particular Opinion before the Suffrages and general Opinion of all the States together aſſembled: Had he proved by his Book, That the Laws, the Doctors, the Practice and the Decrees ought to give place to his Judgment, I ſhould have been far from oppoſing it; but that he had forgot to do</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>Let us go on Sir, what do you an<g ref="char:EOLhyphen"/>ſwer to the <hi>Pragmatick</hi> in 1549. which re<g ref="char:EOLhyphen"/>duced all the Eſtates of the Low Countreys into one Maſs and Body, not to be poſſeſt but by one perſon, and that a Soveraign?</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>Excuſe me if I tell you that if you had made this Propoſition in publick, you would have been diſown'd by all the States. Since nothing is more contrary to the H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſto<g ref="char:EOLhyphen"/>ry, or to the deſires of thoſe Provinces. In ſum, have you forgotten that which is ſo frequently repeated in your Annals? That this Emperor had indeed a deſign to reunite into one only Body of a Monarchy all theſe Soveraignties, which he intended for the Prince <hi>Don Ferdinand,</hi> one of his Sons; but he found ſuch a publick and invincible op<g ref="char:EOLhyphen"/>poſition in the ſpirits of the people; and on the other ſide, the diverſity of their Laws and Cuſtoms ſeemed an obſtacle of ſuch dif<g ref="char:EOLhyphen"/>ficulty to be paſſed over, that he preſently
+<pb n="57" facs="tcp:99156:29"/>gave it over. The words in which I read it in the learned and judicious <hi>Grotius</hi> are ſtill in my memory, and I believe may be of much uſe to diſabuſe you. <hi>Charles the fifth,</hi> (ſays he) <hi>reſolved formerly to change the ſtate of the Government of the Country, entertaining the deſign at that time, when (as the fruits of his Victory at</hi> Pavia) <hi>he ſaw</hi> Flanders <hi>and</hi> Artois <hi>freed from the Soveraignty of the Kings of</hi> France; <hi>but he found their Manners, Laws, and <g ref="char:V">Ʋ</g>ſages ſo very contrary to his De<g ref="char:EOLhyphen"/>ſign, that he deſpaired of ſucceſs, and quitted the thoughts of it, ſcarce adventuring to pro<g ref="char:EOLhyphen"/>poſe it.</hi> If you have any ſcruple remaining after this Authority, be pleaſed to remem<g ref="char:EOLhyphen"/>ber, That <hi>Philip</hi> the ſecond, Son to <hi>Charles</hi> the Fifth, in the confirmation made by him, of the Priviledges of <hi>Brabant,</hi> ſayes, That the only Eſtates which ſhould for ever be united with <hi>Brabant,</hi> were <hi>Limbourgh, Ant<g ref="char:EOLhyphen"/>werp,</hi> and thoſe beyond the <hi>Meuſe;</hi> and that the ſame Prince giving a Portion to the <hi>Infanta Iſabella</hi> of all the Soveraignties which he poſſeſſed in the Low Countries, forbid her to divide or ſeparate them without his conſent; which he would not have done, had they been all united and incorporated by the Pragmatick of <hi>Charles</hi> the fifth, in the year 1549. Beſides this Pragmatick ſpeaks
+<pb n="58" facs="tcp:99156:30"/>not one word in the Enactive part of it, of this Union, nor is there any Author that ever ſpoke of it: but on the contrary, we ſee that his Catholick Majeſty puts all theſe Titles ſe<g ref="char:EOLhyphen"/>parately into his own, &amp; hath a peculiar ſeal for every one of theſe Eſtates in particular. So true it is that he enjoyes them diviſively. But whoſoever ſhall read the Pragmatick, will clearly find that it was made only for the introducing the <hi>Jus Repreſentationis</hi> in<g ref="char:EOLhyphen"/>to the Inheritance of the Soveraign, to hin<g ref="char:EOLhyphen"/>der thoſe States, which for want of this way of ſucceding were expoſed to frequent chan<g ref="char:EOLhyphen"/>ges, from being eaſily divided by the diffe<g ref="char:EOLhyphen"/>rence of their Cuſtoms, of which ſome ad<g ref="char:EOLhyphen"/>mitted, but others rejected this <hi>Jus Repre<g ref="char:EOLhyphen"/>ſentationis,</hi> which is directly oppoſite to the Union alledged; for had there been an U<g ref="char:EOLhyphen"/>nion, it had been to no purpoſe to intro<g ref="char:EOLhyphen"/>duce the <hi>Jus Repreſentationis</hi> to hinder them from the frequent Alterations into which they might fall ſhould this <hi>Jus Repreſentati<g ref="char:EOLhyphen"/>onis</hi> ceaſe, whoſe effect or conſequent can<g ref="char:EOLhyphen"/>not be ſaid to be that of collecting and limit<g ref="char:EOLhyphen"/>ing things ſeparated; Otherwiſe ſince the general way of ſucceſſion in the world is by this <hi>Jus Repreſentationis,</hi> all Inheritances would become inſeparable. That which may then moſt rationally be gathered from
+<pb n="59" facs="tcp:99156:30"/>this Pragmatick, is that the ſucceſſion to Soveraignties is regulated by Cuſtom, where there is no other particular Law to guide it, ſince the Emperor <hi>Charles</hi> the Fifth, to put an end to the power of Cuſtom in his Houſe, as to the point of Repreſentation, was forced to aſſemble all the Eſtates of the Country, and to make a ſolemn Pragma<g ref="char:EOLhyphen"/>tick for it. I come now to the laſt Objecti<g ref="char:EOLhyphen"/>on, which concerns the preferring of the Son by the ſecond Bed, before the Daughter by the firſt; and ſince I perceive you hold it for the moſt ſpecious of all, I intend in few words to let you ſee, that in point of Argument, it is of all others, the moſt unjuſt: that in the order of Succeſſion in <hi>Brabant</hi> it is impoſſible. And laſtly, that the Cuſtom contradicts and condemns it by moſt expreſſe Arti<g ref="char:EOLhyphen"/>cles.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>If you prove all theſe things, I ſhall willingly come over to your ſide, but I very much doubt you cannot do it.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>You will not deny, but that the Right of Devolution is a Favour which the Cuſtoms beſtow upon the firſt Marriage, a<g ref="char:EOLhyphen"/>gainſt the ſecond. Doctor <hi>Sandeus</hi> hath wrote, that this Law was made in reſpect to the firſt Marriages, and in favour to the
+<pb n="60" facs="tcp:99156:31"/>Children iſſuing from them<note n="a" place="margin">In Con<g ref="char:EOLhyphen"/>ſuetud. Feud. Gueldriae &amp; Zul<g ref="char:EOLhyphen"/>phan. tr. <hi>1.</hi> tit. <hi>1.</hi> Sect. <hi>9.</hi>
+                  </note>. <hi>Chriſtineus</hi>
+                  <note n="b" place="margin">In Con<g ref="char:EOLhyphen"/>ſuetud. Meklin. tit. <hi>16.</hi> art. <hi>4.</hi> in addit.</note> ſays, that ſecond Marriages do ſo much change and leſſen the advantages and affe<g ref="char:EOLhyphen"/>ctions of the former, that Cuſtom thought it juſtice to allow them a Compenſation, by introducing the Right of Devolution: And <hi>Kinſcot</hi> affirms, that this Compenſation is a thing ſo ſacred, and ſo carefully reſerved for the Children by the firſt Bed, that there<g ref="char:EOLhyphen"/>by the ſecond can have no pretentions to it, ſo long as there remains any one perſon of the firſt<note n="c" place="margin">
+                     <hi>Reſp.</hi> 65. <hi>Num.</hi> 1.</note>. This then being ſo, can it be thought, that a Right only eſtabliſhed in favour to the firſt Marriages, in oppoſition to the ſecond, may be forced away from the Children of the firſt Bed, who are ſeized by Cuſtom, to be beſtowed upon thoſe of the ſecond, againſt whom it was founded? You muſt not, by your Favour, take the advantage here of the Prerogative of Sex; for in matter of Devolution there is no com<g ref="char:EOLhyphen"/>paring of Sexes, ſo as to give the advan<g ref="char:EOLhyphen"/>tages to the more Noble of them; but the Order of Marriages is there conſidered; where the Prerogative is given to the firſt, a<g ref="char:EOLhyphen"/>gainſt the latter. pray tell me to what purpoſe would it have been to grant the Children by the firſt bed a right to defend themſelves from any prejudice they might receive from
+<pb n="61" facs="tcp:99156:31"/>a ſecond, if they ſhould be obliged to ren<g ref="char:EOLhyphen"/>der and give it up to the Children by the ſecond? In fine take this one reaſon for all, that Devolution being a kind of penalty and a fence againſt the ſecond Mar<g ref="char:EOLhyphen"/>riages in favour to the firſt, it can never be that the firſt ſhould be deprived of it in favour of the ſecond, becauſe that would contrary to Nature turn reward into pu<g ref="char:EOLhyphen"/>niſhment, and puniſhment into reward. I ſay then that your preference, upon debate, is very unjuſt. But to go on, I adde that 'tis morally impoſſible in the Order of Suc<g ref="char:EOLhyphen"/>ceſſion in <hi>Brabant:</hi> my reaſon is, becauſe the Children by the firſt bed being ſeiſed at the very inſtant of the Diſſolution of Marriage, of the property of all the Fiefs of the Survivor, the Father is not in poſ<g ref="char:EOLhyphen"/>ſeſſion of the property at his ſecond Mar<g ref="char:EOLhyphen"/>riage, nor of the Succeſſion at his death, and conſequently 'tis impoſſible that a Child by the ſecond bed ſhould ſucceed him in it. For if we would prefer the Son by the ſecond bed, before the Daughter by the firſt, 'twould be neceſſary that the Fief were at the Fathers diſpoſal at the time of his death, becauſe none can ſucceed to that which belonged not to the deceaſed: ſo that being ſtript of the whole property, and
+<pb n="62" facs="tcp:99156:32"/>becoming only Tenant for life, 'tis abſo<g ref="char:EOLhyphen"/>lutely impoſſible that he ſhould leave that to the Children by the ſecond Marriage, which he was out of the poſſeſſion of at the time when he contracted the Marriage from which they iſſue. But for the better clear<g ref="char:EOLhyphen"/>ing of this Argument, let us ſay (if you pleaſe) that the Cuſtom having by the right of Devolution ſeiſed the Children of the firſt Marriage of the property of the Fiefs which were the Survivors; if we would have the Son by the ſecond bed ſucceed, 'twere neceſſary that the property ſhould a<g ref="char:EOLhyphen"/>gain revert to the Father, and that the Child by the firſt bed ſhould be diſſeiſed; which can only be done theſe three ways; Either by the rule of Cuſtom, or by the will of the Survivor, or by Common Right. But you will not ſay that the Cu<g ref="char:EOLhyphen"/>ſtom which has given this Right to the firſt bed, does deprive it of it to beſtow it on the ſecond Marriage, from which its only meaning and intent was to take it a<g ref="char:EOLhyphen"/>way. It cannot alſo be ſaid that the Sur<g ref="char:EOLhyphen"/>vivor who was diſſeiſed of it, had a power to recall it from the firſt bed, and to paſs it over to the ſecond; and as to Common Right we know that all its inclination, as well as all its rules and ordinances,
+<pb n="63" facs="tcp:99156:32"/>tend to the favour of firſt Marriage againſt the ſecond. Conclude we then, that your preference is impoſſible in the order of Suc<g ref="char:EOLhyphen"/>ceſſion in <hi>Brabant,</hi> and give me leave for a cloſe to ſhew you, that 'tis condemned by an expreſs Ordinance of the Cuſtom of the Country. This Cuſtom diſtinguiſhing be<g ref="char:EOLhyphen"/>tween Fiefs which belonged to the Survi<g ref="char:EOLhyphen"/>vor at the inſtant of the diſſolution of the firſt Marriage, and thoſe which fell to him, or were acquired by him ſince his ſecond Marriage; declares by its ſecond and third Articles, that the Children by the firſt bed ſhall leave the property of all Fiefs poſ<g ref="char:EOLhyphen"/>ſeſſed by the Survivor at the time of the deceaſe of the other perſon that was joy<g ref="char:EOLhyphen"/>ned in Marriage; and expreſſely orders that the Brethren and Siſters of this Marri<g ref="char:EOLhyphen"/>age ſucceed one another therein. This be<g ref="char:EOLhyphen"/>ing pre-ſuppoſed, is not your preference directly contrary to this Law? ſince by it the Son by the ſecond bed, againſt the very words of this Text, would hinder the Siſter from ſucceeding her Brother by the firſt bed; and you ſay <hi>Kinſcot</hi> that Great Chancellour of <hi>Brabant</hi> hath very preciſely ſaid, that never any Children by the ſe<g ref="char:EOLhyphen"/>cond bed could make any demand of the Fiefs whilſt any one of the firſt was living,
+<pb n="64" facs="tcp:99156:33"/>which is alſo confirmed by <hi>Chriſtineus</hi> and <hi>Sandeus,</hi> when they tell us, that this right of Devolution is not to be applyed but to ſuch Children as were in common between the Deceaſed and the Survivor: But you have the leſs reaſon to deny theſe truths, ſince being of that Country, you know that 'tis the General rule of all theſe Cu<g ref="char:EOLhyphen"/>ſtoms to prefer the Daughter of the firſt bed before the Son of the ſecond; and that in<g ref="char:EOLhyphen"/>deed that of <hi>Haynault, Malines, Namur,</hi> and divers others have made ſeveral ex<g ref="char:EOLhyphen"/>preſs Articles of it.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>It will follow then, that againſt the order of Nature, as well as againſt that of the General Polity of all the world, the Brother muſt obey the Siſter.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>Pardon me, for the Catholick King will command in his own Eſtates, and the moſt Chriſtian Queen in hers, and neither of them have Dominion over the other. I adde too, that by your own ac<g ref="char:EOLhyphen"/>knowledgement, this is always the practice in <hi>Brabant,</hi> for the Daughter of the firſt bed by vertue of the right of Devolution, carrying the Fiefs of the Survivor from the Son of the ſecond; it often happens that a Brother is poſſeſt of an Eſtate which holds of his Siſter: But after all, what can you
+<pb n="65" facs="tcp:99156:33"/>reply to your Hiſtories which tell us that <hi>Iſabella</hi> of <hi>Auſtria,</hi> Daughter by the firſt bed to <hi>Philip</hi> the ſecond, enjoyed all the Eſtates of the Low Countries, excluding <hi>Philip</hi> the third, her half Brother, Son by a ſecond Marriage to the ſame Kiag <hi>Philip</hi> the ſecond?</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>You cannot find any other Preſi<g ref="char:EOLhyphen"/>dent beſides this, to juſtifie that ever any Daughter by the firſt bed excluded a Son by the ſecond in the poſſeſſion of this Dutchy.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>Neither can you find any one that proves that ever any Son by the ſecond bed was preferred before a Daughter by the firſt; for never ſince this was a Dutchy, was there ever but only that one time ſuch a concurrence of a Daughter by the firſt bed, with a Son by the ſecond, where you ſee the Daughter was preferred.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>The Dutcheſs <hi>Iſabella</hi> was not pre<g ref="char:EOLhyphen"/>ferred by right of Devolution, but ſhe re<g ref="char:EOLhyphen"/>ceived thoſe Eſtates from King <hi>Philip</hi> her Father, who freely gave them to her in fa<g ref="char:EOLhyphen"/>vour of her Marriage.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>Conſult your Annals, and they will tell you that 'tis true, <hi>Philip</hi> the ſe<g ref="char:EOLhyphen"/>cond to give himſelf the honour of an ima<g ref="char:EOLhyphen"/>ginary bounty, gave to <hi>Iſabella</hi> all thoſe
+<pb n="66" facs="tcp:99156:34"/>Eſtates which belonged to her by the right of Devolution; You will ſee alſo in your Re<g ref="char:EOLhyphen"/>cords that all the Orders of the Dutchy proteſted, that this Donation ſhould not, prejudice their Rights, Cuſtoms, and Pri<g ref="char:EOLhyphen"/>viledges; and that notwithſtanding this contract, they ſhould look upon <hi>Iſabella</hi> as their natural and lawful Soveraign<note n="a" place="margin">Scripto Ordinibus caveat duodecimum ceſſionis articulum Belgicarum provinclarum liber<g ref="char:EOLhyphen"/>tati &amp; privilegiis nihil derogatum aut dettimento fore.
+<p>Ordines Brabantiae per ſuum Grapharium ſententiam protule<g ref="char:EOLhyphen"/>runt, quae palam pronunclavit Ordines ita cenſuiſſe, ſe <hi>Alberto Archiduci</hi> ſereniſſimae Inſantis nomine, tanquam Principis legiti<g ref="char:EOLhyphen"/>mae harum provinci<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rum jusjurandum praeſtituros, ſi viciſſim els jusjurandum praeſtetur de obſervandis patriae privilegiis, &amp; de lis ſarciendis quae contra majorum inſtituta &amp; auſpicia innovata aut abrogata ſunt.</p>
+                  </note>. And if your curioſity leads you any fur<g ref="char:EOLhyphen"/>ther, you may entirely ſatisfie it in the Hi<g ref="char:EOLhyphen"/>ſtory of the Low Countries, written by <hi>Grotius;</hi> where we read that <hi>Philip</hi> II. was willing to give theſe Provinces to <hi>Iſabella,</hi> not only for the reduction of the Rebels to their duty; but alſo by this diviſion to aſſure them to her againſt thoſe troubles, which her half brother might ſome time or other have given her, notwithſtanding that ſhe was the lawful inheretrix to
+<pb n="67" facs="tcp:99156:34"/>them<note n="b" place="margin">Dotem <hi>Philippus Burgundi<g ref="char:EOLhyphen"/>am</hi> cum <hi>Belgica</hi> dixerat, ut legitimae haeredi ad<g ref="char:EOLhyphen"/>verſus fra<g ref="char:EOLhyphen"/>trem mi<g ref="char:EOLhyphen"/>norem di<g ref="char:EOLhyphen"/>viſionecon<g ref="char:EOLhyphen"/>ſuleretur. <hi>lib.</hi> 6. <hi>An.</hi> 1597.</note>. Which made ſuch an impreſſion upon all the hearts and ſpirits of the Coun<g ref="char:EOLhyphen"/>try, that it was at that time that <hi>Chriſtine<g ref="char:EOLhyphen"/>us, Kinſcot, Buken,</hi> and thoſe other famous Doctors of the Country enlarged themſelves upon the buſineſs of the Right of Devo<g ref="char:EOLhyphen"/>lution, to make it known to their Prin<g ref="char:EOLhyphen"/>ceſs, that it was this Title of the Law, and not the Kings her Fathers Donation which made her Soveraign of <hi>Brabant.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Germ.</speaker>
+               <p>This example and theſe prote<g ref="char:EOLhyphen"/>ſtations ſeem to me to be of great ſtrength to ſupport the right of the Daughters by the firſt bed, againſt the Sons of the ſe<g ref="char:EOLhyphen"/>cond in <hi>Brabant:</hi> but it may be, Sir, he will tell you of ſome preſidents to the con<g ref="char:EOLhyphen"/>trary.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>That will be an hard matter for him to do, for all the Dukes of <hi>Brabant</hi> that had more Wives then one before <hi>Phi<g ref="char:EOLhyphen"/>lip</hi> the ſecond, are <hi>Geoffrey</hi> the third, <hi>Henry</hi> the firſt, <hi>Henry</hi> the ſecond, <hi>John</hi> the firſt, <hi>Anthony</hi> of <hi>Burgundy</hi> and <hi>Philip le Bon:</hi> Now 'tis certain that after the death of theſe Dukes, either a Son by the firſt bed alwaies ſucceeded in the Dutchy, or a Son by the ſecond, where there were no Chil<g ref="char:EOLhyphen"/>dren by the firſt, as was <hi>John</hi> the ſecond; or a Son by the third bed, where there
+<pb n="68" facs="tcp:99156:35"/>were none by the firſt and ſecond, as was <hi>Charles le Hardi,</hi> Son by a third Marriage to <hi>Philip le Bon,</hi> who left no Children by the two former.</p>
+            </sp>
+            <sp>
+               <speaker>Germ.</speaker>
+               <p>I am extreamly ſatisfyed as to the Dutchy of <hi>Brabant</hi> in favour of the Queen, and if her right be as well founded to the other Eſtates, I think a man muſt be very obſtinate to deny it.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>The reſt of her Titles are as eaſily juſtifyed, and made out in very few words, for the Objections and Anſwers which you now hear are applicable to all the reſt of them.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>Let us proceed then, if you pleaſe.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>The Seigneury of <hi>Malines</hi> be<g ref="char:EOLhyphen"/>longs to the <hi>Infanta</hi> by the ſame right of Devolution; The 15. Article of the 10. Title of the Cuſtom is preciſe in it.<note n="a" place="margin">Si vir aut mulier quibus li<g ref="char:EOLhyphen"/>beri ſuperſunt, relictis feudis diem ſuum obeat, tum ex maritis, is qui in vitâ manet uſum fructum habebit in omnia commoda acci<g ref="char:EOLhyphen"/>dentaris, Patronatus feudales, &amp; in arces feudales, nec non ſemiſſem in obventiones cettas, proprietas corundem feudorum tamen ſtatim ad liberos devolvitur.</note> And <hi>Chriſtineus</hi> in the Learned Commen<g ref="char:EOLhyphen"/>tary which he has publiſh'd upon it, for<g ref="char:EOLhyphen"/>mally avouches, that all the Fiefs of the Survivor, whether acquired or Patrimonial,
+<pb n="69" facs="tcp:99156:35"/>belong by right of Devolution to the Chil<g ref="char:EOLhyphen"/>dren by the firſt bed, from the moment of the Diſſolution of the fi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt Marriage. He adds alſo, that this Cuſtom is in this par<g ref="char:EOLhyphen"/>ticular more ſevere then that of <hi>Brabant,</hi> in that it gives the Children by the firſt bed all thoſe Fiefs which fall to the Survivor by inheritance during his ſecond Marriage, to the prejudice and excluſion of the Chil<g ref="char:EOLhyphen"/>dren he has by it, which is not the Cuſtom in <hi>Brabant</hi>
+                  <note n="a" place="margin">Etiam notandum venit quod ſecundum antiquam <hi>Mecklin.</hi> Conſtitu<g ref="char:EOLhyphen"/>tionem, &amp; ferè per u<g ref="char:EOLhyphen"/>niverſam <hi>Brabanti am</hi> ſuper<g ref="char:EOLhyphen"/>ſtes altero conjugum mortuo uſufructuarius redditur ſuorum bonorum, ſive induſtriâ quaeſita ſunt, ſive haereditate obvenerunt, corum propri<g ref="char:EOLhyphen"/>etate ſtatim ad liberos per<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>inente, qui haeredes futuri ſunt, devolutâ; qui ſi ante eum moriantur, proprietas denuo ipſi cum uſu fr. conſo<g ref="char:EOLhyphen"/>lidatur, &amp; id propter ſpem rediturae haereditatis, haereditarius ille uſufructuarius appellatur; at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> hinc eſt, quod proprietariis non liceat, quamdiu in vita eſt uſufructuarius eam proprietatem vel ven<g ref="char:EOLhyphen"/>dere vel oppignera<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, vel ullo deni<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> colore onerate, uti colligi po<g ref="char:EOLhyphen"/>teſt ex generali ſtatuto &amp; conſuetudine <hi>Brabantiae</hi> &amp; particularibus &amp;c. <hi>In Conſuetud. Mecklin. Tit.</hi> 16. <hi>Art.</hi> 24. <hi>Num.</hi> 25.</note> As to <hi>Antwerp,</hi> which is one of the chief Fiefs of <hi>Brabant,</hi> the <hi>Infanta</hi> has a claim by 3 Titles. The firſt is that by the Cuſtom which introduces the Devolu<g ref="char:EOLhyphen"/>tion. The ſecond is the Union of that Mar<g ref="char:EOLhyphen"/>quiſate, with the Dutchy of <hi>Brabant,</hi> made by <hi>Philip le Hardi</hi> Duke of <hi>Burgundy,</hi> and ſome time ſince renewed by a Solemn Act of the Emperour <hi>Charles</hi> the Fifth, where he declares it to be inſeparable from
+<pb n="70" facs="tcp:99156:36"/>
+                  <hi>Brabant</hi>
+                  <note n="b" place="margin">In per<g ref="char:EOLhyphen"/>pe<gap reason="illegible" resp="#UOM" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> 
+                     <hi>Antuerpia</hi> &amp; quic<g ref="char:EOLhyphen"/>quid ad eam pe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ti nere often di poterit, civitatibus communi<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> 
+                     <hi>Brabantiae</hi> provinclae conjuncta man<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t, &amp;c. <hi>En.</hi> 1549. <hi>Dans la reception de Philippes If. pour prince de Brabant cap.</hi> 40.</note> And the third is an uſage which has inviolably eſtabliſhe, That all the Fiefs holding of <hi>Brabant</hi> in what part ſoever ſcituated, either within or without the. Dutchy, be regalated as to their ſucceſſion by the ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al Cuſtom of the Dutchy.</p>
+               <p>Upper <hi>Guelderland</hi> does by an expreſs Article admit of the right of Devolution, and after the example of <hi>Malines,</hi> pre<g ref="char:EOLhyphen"/>fers the Children by the firſt bed, before thoſe of the ſecond, even in ſuch Fiefs as were not fallen till after the ſecond Mar<g ref="char:EOLhyphen"/>riage<note n="c" place="margin">Quorun<g ref="char:EOLhyphen"/>dam loco<g ref="char:EOLhyphen"/>rum uſu, apud <hi>Bra<g ref="char:EOLhyphen"/>bantos</hi> videlicet ſuperiori <hi>Gueldriâ</hi> at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> alibi ex primo matrimonio ſuſcepti liberi, poſterioribus, tam in feudo, quam in al<g ref="char:EOLhyphen"/>lodiis immobilibus praeferuntur. <hi>Fredericus Sandé in Gall. Conſ. fond. tr.</hi> 1. <hi>tit.</hi> 3. <hi>Sect. Num.</hi> 3.</note> We ſee in <hi>Sandeus</hi>'s Commentaries upon this Cuſtom, a ſolemn Decree of the Imperial Council, which judged it thus on the Baron <hi>de Tantaimbourg</hi>'s ſide, againſt the Children by the ſecond bed, who ſued for Fiefs which were fallen in their time.</p>
+               <p>The Queens Title to the County of <hi>Namur</hi> is ſo clear, that it will be proof ſuf<g ref="char:EOLhyphen"/>ficient
+<pb n="71" facs="tcp:99156:36"/>to give you two Articles of the Cu<g ref="char:EOLhyphen"/>ſtom, which eſtabliſh it. The 79th. in<g ref="char:EOLhyphen"/>troduceth the Devolution in favour of the Children by the firſt Bed<note n="d" place="margin">Quand deux Con<g ref="char:EOLhyphen"/>joints ap<g ref="char:EOLhyphen"/>poricront biens <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eels en marri<g ref="char:EOLhyphen"/>age, &amp; l'une des dicts Conjoints termine Vie par la mort, delaiſſant enfans procre<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> d'eux, la proprieté des biens ſucceders &amp; ſe devoluërs par &amp; in<g ref="char:EOLhyphen"/>conrinent apres ledit treſpas advenu auſdirs enfans, ſauf au fur<g ref="char:EOLhyphen"/>vivant ſon uſufruit en iceux.</note> and the 82 or<g ref="char:EOLhyphen"/>ders, That the ſame Children ſhall ſucceed in all Immoveables that are enjoyed in time of Marriage, whether deſcending, or acqui<g ref="char:EOLhyphen"/>red during its continuance, excluding the Children by other ſubſequent Marriages<note n="b" place="margin">Les enfans dupremier lit ſuc<g ref="char:EOLhyphen"/>cederont aux biens immcubles apport z<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en marriage E'cheus ou ac<g ref="char:EOLhyphen"/>quis pendent iceluy Marriage par Pere &amp; Mere a l'excluſion de enfans d'<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>utres Marriage ſubſequens, &amp; ſemblablement les enfans du ſecond lit, ſuccederont és biens eſcheus, acquis ou appr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>éz comme deſſus, audit ſeconde Marriage l'excluſion des premiers.</note>. I ſuppoſe there is not any one but will eaſily draw the Conſequences from theſe two Ar<g ref="char:EOLhyphen"/>ticles, and judge that the County of <hi>Namurs,</hi> having formerly belonged to the late Ca<g ref="char:EOLhyphen"/>tholick King during his firſt Marriage, is now by an entire Right fallen to the <hi>Infanta</hi> who is iſſued from that Marriage. Come we to the Dutchy of <hi>Limbourg,</hi> which is joyned to that of <hi>Brabant</hi> by ſo ancient and ſtraight an Union, that in the opinion of all
+<pb n="72" facs="tcp:99156:37"/>the Country they make but only one Sove<g ref="char:EOLhyphen"/>raignty, and have only one Seal, and one and the ſame Chancellor, notwithſtanding the other Eſtates have each their particular ones; and in truth the Emperor <hi>Charles</hi> the Fifth, and the Prince <hi>Philip</hi> his Son, in imi<g ref="char:EOLhyphen"/>tation of their Predeceſſors, ſolemnly prote<g ref="char:EOLhyphen"/>ſted in the year 1549. that the Dutchy of <hi>Limbourg,</hi> and the places beyond the <hi>Meuſe,</hi> ſhould for ever remain inſeparably united to the Dutchy of <hi>Brabant</hi>
+                  <note n="c" place="margin">Provin<g ref="char:EOLhyphen"/>ciae noſtrae Limbur<g ref="char:EOLhyphen"/>genſis &amp; Tranſmoſanae in perpetuum conjunctae manebunt cum P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ovinc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>â noſtrâ Brabantiâ, neque unqu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b ea divelli poterunt, &amp;c. <hi>En l<hi rend="sup">2</hi> Acte de reception de Philippes</hi> II. <hi>Chapitre</hi> 12.</note>.</p>
+               <p>For this cauſe the Title and the Pretenſion of the Queen upon that Dutchy, doth neceſ<g ref="char:EOLhyphen"/>ſarily draw in that of <hi>Limbourg,</hi> which can<g ref="char:EOLhyphen"/>not be ſeparated from it. As to <hi>Haynault,</hi> moſt aſſuredly it is a Soveraignty indepen<g ref="char:EOLhyphen"/>dent, or in Free-hold, which according to the voyce of the People, and all the Re<g ref="char:EOLhyphen"/>cords of that Eſtate, acknowledges no Supream Lord but only God and the Sun<note n="d" place="margin">Comes Annoniae vulgo <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ici<g ref="char:EOLhyphen"/>tur <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nere ſuam ditionem à Deo &amp; Sole, id eſt, à nemine Mor<g ref="char:EOLhyphen"/>taliam, <hi>Cap.</hi> 3. <hi>Nu.</hi> 9. <hi>Fol.</hi> 12. <hi>lib. de feud.</hi>
+                  </note>
+                  <pb n="73" facs="tcp:99156:37"/>And 'tis upon this account that the Queen founds her Title to this County; for by an expreſſe Article of the Cuſtom 'tis ſaid, that Patrimonial Free-holds ſhall belong to the Children of the firſt Marriage, and not to thoſe of a ſubſequent one.<note n="a" place="margin">Les al<g ref="char:EOLhyphen"/>leux patri<g ref="char:EOLhyphen"/>moniaux appartiendront aux enfans du premier marriage, ſi'z ou filles, &amp; non aux enfans du mariage ſubſ quent, mais s'ils eſch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ent col<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aceralle<g ref="char:EOLhyphen"/>ment durant un ſeconde ou troifi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſme Mariage, ils appar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iendront aux enſans desdits marisges reſpectivement, le meſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> e<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>' obſervera a l'eſgard des alleux aquis, les quels <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ppatiendront auſſiaux filz &amp; filles de Chacun Mariage ou vidui<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>é d'iceluy auqu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>its acqueſts ſeront ſaits, ou a leur generation, Art. 4. Chap. 105.</note>.</p>
+               <p>If nevertheleſſe <hi>Spain</hi> ſhould contend againſt the credit of all Hiſtory, as well as a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ainſt the certainty of proofs, that it i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a Fief, and not a Soveraignty independent, or in Freehold, the Queens Right would not be leſſened or weakned by it; becauſe every Fief that is ac<g ref="char:EOLhyphen"/>quired, doth by the diſpoſition of the ſame Cuſtom belong to the Children iſſuing from that Marriage in which it is acquired, though they be Daughters to the excluſion of thoſe Children which iſſue from other Marriages, though Sons<note n="b" place="margin">Tous Fiefs ac<g ref="char:EOLhyphen"/>quis par pere ou mere, con<g ref="char:EOLhyphen"/>ſtant chacun Marriage ou V<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>du<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ré d'iceluy ap<g ref="char:EOLhyphen"/>partien<g ref="char:EOLhyphen"/>dront &amp; eſcheront aux enfans du Mariage ou Vidui<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>é en tel ordre que cy devant a eſté dit. Art. 3. Chap. 91.
+<pb n="74" facs="tcp:99156:38"/>
+                     <p>Quant aux fiefs eſcheus en ligne collaterale, ou acquis en premier Mariage, encores que filles dudit premier Mariage le pere n'en pourra faire l' Allienation de tant d'enfans, que fils, que filles duront ſucceder es fiefs acquis ou eſcheus collater allement conſtant chacun Mariage. Act. 9. Chapitre 92.</p>
+                  </note>
+               </p>
+               <p>But granting that the late Catholick King came by that County in the time of his firſt Marriage, as being Heir to the <hi>Infanta Iſa<g ref="char:EOLhyphen"/>bella</hi> his Aunt, or as a Doneé from <hi>Philip</hi> the II. his Grandfather, who had given it to <hi>Iſabella</hi> upon her Marriage, on condition that if ſhe died without Iſſue, it ſhould return to the King of <hi>Spain</hi> then living. It is certain that both in one and the other caſe, it was truly an Acqueſt made by his own perſon: For preſuppoſing it came to him as being Heir to his Aunt, the Cuſtom declares all collateral Succeſſions to be Acqueſts<note n="c" place="margin">
+                     <hi>Art.</hi> 7. <hi>Chap.</hi> 92.</note>. And if it be his as Doneé of <hi>Philip</hi> his Grand<g ref="char:EOLhyphen"/>father, the ſame Cuſtom ſays that all Dona<g ref="char:EOLhyphen"/>tions <hi>in directo</hi> are Acqueſts, unleſſe they are made to the Child as to the rightful &amp; next heir, &amp; that neither the Father nor Mo<g ref="char:EOLhyphen"/>ther were in their life time poſſeſſed of them<note n="d" place="margin">
+                     <hi>Art.</hi> 1, <hi>&amp;</hi> 2. <hi>Ch.</hi> 93.</note> which cannot be ſaid of the late Catholick King, who was ſo far from being poſſeſt by that Donatary, or from being conſidered as the rightful and next Heir, that he was not
+<pb n="75" facs="tcp:99156:38"/>born in a long time after, ſince <hi>Philip</hi> the Third his Father was not ſo much as mar<g ref="char:EOLhyphen"/>ried at the time of this Donation, and con<g ref="char:EOLhyphen"/>ſequently you ſee that every way the Coun<g ref="char:EOLhyphen"/>ty of <hi>Haynault</hi> belongs to the Queen. That of <hi>Artois</hi> cannot be diſputed with her without manifeſt injuſtice againſt the rule of the Cuſtom of the place; which imports that if the Survivor marry again, the Children by the firſt Marriage ſhall carry all the inheritances which were poſſeſt by Parents, during that firſt Marriage, the Excluſion of thoſe by the ſecond<note n="a" place="margin">Queſile Survivant des deux Con<g ref="char:EOLhyphen"/>joynts ay<g ref="char:EOLhyphen"/>ant enfans de ſon Marriage ait convolé en d'autres Nopces, dont ſeroient iſſus, d'autres enfans, iceux enfans d'icedluy dernier mar<g ref="char:EOLhyphen"/>riage ne peuvent demander aucun droit par le treſpas dudit ſurvivant des heritages dont il a poſt é durant ſon premier Marriage.</note>. But of all other Cuſtoms, that of <hi>Combray</hi> is favourable to the <hi>Infanta,</hi> which for<g ref="char:EOLhyphen"/>mally orders that the Children by the firſt bed are ſo fully ſeiſed of the property of all fiefs, from the inſtant of the Diſſolution of Marriage, that the Survivor cannot do any act of a proprietor without the free and expreſs conſent of all the Children together<note n="b" place="margin">Homme ou femme ayant en<g ref="char:EOLhyphen"/>fant, ou enfansvivans du premier marriage briſé &amp; ſepa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>é ne peut valablement vendre, changer, donner, ni autrement aliener ſes heri<g ref="char:EOLhyphen"/>tages tant fiefs que main fermes, ni autrement diſpoſer, ſi non du libre conſentement, competence &amp; Devoir de Loix actuelles &amp; perſo<g ref="char:EOLhyphen"/>nelles de tous leſdicts enfants, &amp;c.</note>.
+<pb n="76" facs="tcp:99156:39"/>As to the County of <hi>Burgundy,</hi> the males and females ſharing equally without any diſtinction of the nature of the Eſtate, or of the Order of the Marriages; the three Children left of both Beds by his Catho<g ref="char:EOLhyphen"/>lick Majeſty, ought to divide it equally, every one taking their third part. And for the Dutchy of <hi>Luxemburg,</hi> the Son by the ſecond bed is to have an entire Moiety, and the Queen with her half Siſter the other half, that is, either of them a fourth part of the whole, becauſe the Cuſtom gives the Son a portion double to that of the Daughter<note n="c" place="margin">Quand des filles ont freres ou ſoeurs, chacune fille n'a que la moitlé autant quel'un des freres. <hi>Art.</hi> 9.</note> This, Sir, is an Abridgement as far as I can remember of the Treatiſe, which was ſhewn to me upon the rights of the Queen: If any thing has eſcaped me, or the proof be not ſtrong enough, you are not (if you pleaſe) to blame any thing but by memory or weakneſs.</p>
+            </sp>
+            <pb n="77" facs="tcp:99156:39"/>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>We are ſo far from believing that you have forgotten any thing, that by the manner of your diſcourſe I ſhould rather think you to be the Author of that Trea<g ref="char:EOLhyphen"/>tiſe; for 'tis a very hard thing for any one to be ſo full and knowing in another mans work.</p>
+            </sp>
+            <sp>
+               <speaker>Germ.</speaker>
+               <p>I would to Heaven all the City had heard as much as we have now done upon this ſubject, which is of ſuch impor<g ref="char:EOLhyphen"/>tance to its peace, honour, and fidelity.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>I could wiſh it with all my heart, for to ſpeak truly, I find my ſelf extreamly diſabuſed, and am troubled that others are not ſo too.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>I hope that will be ſo ſhortly, by the Treatiſe which the moſt Chriſtian King ordered to be compoſed, only out of an intent to inſtruct and draw them out of their Error.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>In what language is it written?</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>The Original is in <hi>French,</hi> but the moſt Chriſtian King has ordered it to be tranſlated into Latine, for the farther ſpreading of it; and I can aſſure you the tranſlation is excellent.</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>I much fear that this work will not paſs ſo far as us; but I am reſolved not to leave you till you have promiſed me one favour.</p>
+            </sp>
+            <pb n="78" facs="tcp:99156:40"/>
+            <sp>
+               <speaker>French.</speaker>
+               <p>If it lies in my power, you may be aſſured of it. What is it?</p>
+            </sp>
+            <sp>
+               <speaker>Flem.</speaker>
+               <p>'Tis Sir, that you will order this Converſation of ours to be printed with all the Texts of the Cuſtoms, and Authori<g ref="char:EOLhyphen"/>ties in the Margent. You ought to do this for truths ſake, and if I durſt whiſper it in your Ear, you ought to do it for our Auguſt Princeſſes ſake.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>How am I raviſht with this your Declaration! 'tis true, I owe much to that ſacred name, and I promiſe you, that from this very evening I will ſo order my affairs as to give you ſatisfaction.</p>
+            </sp>
+            <sp>
+               <speaker>Germ.</speaker>
+               <p>So ſweet and worthy a Conver<g ref="char:EOLhyphen"/>ſation cannot have a more pleaſing End. We hope, Sir, in a little time to ſee the effects of your promiſe, and at parting we conjure you to advance the work with a diligence ſuitable to the merits of the ſub<g ref="char:EOLhyphen"/>ject, and the warmth of our zeal.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:99156:40"/>
+         </div>
+      </body>
+   </text>
+</TEI>
